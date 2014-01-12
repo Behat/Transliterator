@@ -1,0 +1,23 @@
+{
+    "name":         "behat/transliterator",
+    "description":  "String transliterator",
+    "keywords":     ["transliterator", "slug", "i18n"],
+    "type":         "library",
+    "license":      "Artistic-1.0",
+
+    "require": {
+        "php": ">=5.3.3",
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Behat\\Transliterator": "src/"
+        }
+    },
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
