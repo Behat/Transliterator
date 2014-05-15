@@ -27,9 +27,9 @@ abstract class Transliterator
      *
      * By bmorel at ssi dot fr
      *
-     * @param  string $string
+     * @param string $string
      *
-     * @return boolean $bool
+     * @return boolean
      */
     public static function seemsUtf8($string)
     {
@@ -53,9 +53,9 @@ abstract class Transliterator
     /**
      * Remove any illegal characters, accents, etc.
      *
-     * @param  string $string  String to unaccent
+     * @param string $string String to unaccent
      *
-     * @return string $string  Unaccented string
+     * @return string Unaccented string
      */
     public static function unaccent($string)
     {
@@ -313,13 +313,12 @@ abstract class Transliterator
      * characters to - it uses a PHP output buffer to do this - it means, memory use will increase,
      * requiring up to the same amount again as the input string
      *
-     * @see    http://search.cpan.org/~sburke/Text-Unidecode-0.04/lib/Text/Unidecode.pm
-     *
-     * @param                      string    UTF-8 string to convert
+     * @see http://search.cpan.org/~sburke/Text-Unidecode-0.04/lib/Text/Unidecode.pm
      *
      * @author <hsivonen@iki.fi>
      *
-     * @param string (default = ?) Character use if character unknown
+     * @param string $str     UTF-8 string to convert
+     * @param string $unknown Character use if character unknown (default to ?)
      *
      * @return string US-ASCII string
      */
@@ -328,7 +327,7 @@ abstract class Transliterator
         static $UTF8_TO_ASCII;
 
         if (strlen($str) == 0) {
-            return;
+            return '';
         }
 
         preg_match_all('/.{1}|[^\x00]{1,1}$/us', $str, $ar);
@@ -419,7 +418,7 @@ abstract class Transliterator
      *
      * @author <hsivonen@iki.fi>
      *
-     * @param string UTF-8 encoded string
+     * @param string $str UTF-8 encoded string
      *
      * @return boolean true if valid
      * @see    http://hsivonen.iki.fi/php-utf8/
