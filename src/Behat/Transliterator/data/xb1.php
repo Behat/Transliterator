@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xb1] = array(
-'Tuo ','Wu ','Rui ','Rui ','Qi ','Heng ','Lu ','Su ','Tui ','Mang ','Yun ','Pin ','Yu ','Xun ','Ji ','Jiong ','Xian ','Mo ','Hagi ','Su ','Jiong ','[?] ','Nie ','Bo ','Rang ','Yi ','Xian ','Yu ','Ju ','Lian ','Lian ','Yin ','Qiang ','Ying ','Long ','Tong ','Wei ','Yue ','Ling ','Qu ','Yao ','Fan ','Mi ','Lan ','Kui ','Lan ','Ji ','Dang ','Katsura ','Lei ','Lei ','Hua ','Feng ','Zhi ','Wei ','Kui ','Zhan ','Huai ','Li ','Ji ','Mi ','Lei ','Huai ','Luo ','Ji ','Kui ','Lu ','Jian ','San ','[?] ','Lei ','Quan ','Xiao ','Yi ','Luan ','Men ','Bie ','Hu ','Hu ','Lu ','Nue ','Lu ','Si ','Xiao ','Qian ','Chu ','Hu ','Xu ','Cuo ','Fu ','Xu ','Xu ','Lu ','Hu ','Yu ','Hao ','Jiao ','Ju ','Guo ','Bao ','Yan ','Zhan ','Zhan ','Kui ','Ban ','Xi ','Shu ','Chong ','Qiu ','Diao ','Ji ','Qiu ','Cheng ','Shi ','[?] ','Di ','Zhe ','She ','Yu ','Gan ','Zi ','Hong ','Hui ','Meng ','Ge ','Sui ','Xia ','Chai ','Shi ','Yi ','Ma ','Xiang ','Fang ','E ','Pa ','Chi ','Qian ','Wen ','Wen ','Rui ','Bang ','Bi ','Yue ','Yue ','Jun ','Qi ','Ran ','Yin ','Qi ','Tian ','Yuan ','Jue ','Hui ','Qin ','Qi ','Zhong ','Ya ','Ci ','Mu ','Wang ','Fen ','Fen ','Hang ','Gong ','Zao ','Fu ','Ran ','Jie ','Fu ','Chi ','Dou ','Piao ','Xian ','Ni ','Te ','Qiu ','You ','Zha ','Ping ','Chi ','You ','He ','Han ','Ju ','Li ','Fu ','Ran ','Zha ','Gou ','Pi ','Bo ','Xian ','Zhu ','Diao ','Bie ','Bing ','Gu ','Ran ','Qu ','She ','Tie ','Ling ','Gu ','Dan ','Gu ','Ying ','Li ','Cheng ','Qu ','Mou ','Ge ','Ci ','Hui ','Hui ','Mang ','Fu ','Yang ','Wa ','Lie ','Zhu ','Yi ','Xian ','Kuo ','Jiao ','Li ','Yi ','Ping ','Ji ','Ha ','She ','Yi ','Wang ','Mo ','Qiong ','Qie ','Gui ','Gong ','Zhi ','Man ','Ebi ','Zhi ','Jia ','Rao ','Si ','Qi ','Xing ','Lie ','Qiu ','Shao ','Yong ','Jia ','Shui ','Che ','Bai ','E ','Han ',
+'nyaess', 'nyaeng', 'nyaej', 'nyaec', 'nyaek', 'nyaet', 'nyaep', 'nyaeh', 'neo', 'neog', 'neogg', 'neogs', 'neon', 'neonj', 'neonh', 'neod',
+'neol', 'neolg', 'neolm', 'neolb', 'neols', 'neolt', 'neolp', 'neolh', 'neom', 'neob', 'neobs', 'neos', 'neoss', 'neong', 'neoj', 'neoc',
+'neok', 'neot', 'neop', 'neoh', 'ne', 'neg', 'negg', 'negs', 'nen', 'nenj', 'nenh', 'ned', 'nel', 'nelg', 'nelm', 'nelb',
+'nels', 'nelt', 'nelp', 'nelh', 'nem', 'neb', 'nebs', 'nes', 'ness', 'neng', 'nej', 'nec', 'nek', 'net', 'nep', 'neh',
+'nyeo', 'nyeog', 'nyeogg', 'nyeogs', 'nyeon', 'nyeonj', 'nyeonh', 'nyeod', 'nyeol', 'nyeolg', 'nyeolm', 'nyeolb', 'nyeols', 'nyeolt', 'nyeolp', 'nyeolh',
+'nyeom', 'nyeob', 'nyeobs', 'nyeos', 'nyeoss', 'nyeong', 'nyeoj', 'nyeoc', 'nyeok', 'nyeot', 'nyeop', 'nyeoh', 'nye', 'nyeg', 'nyegg', 'nyegs',
+'nyen', 'nyenj', 'nyenh', 'nyed', 'nyel', 'nyelg', 'nyelm', 'nyelb', 'nyels', 'nyelt', 'nyelp', 'nyelh', 'nyem', 'nyeb', 'nyebs', 'nyes',
+'nyess', 'nyeng', 'nyej', 'nyec', 'nyek', 'nyet', 'nyep', 'nyeh', 'no', 'nog', 'nogg', 'nogs', 'non', 'nonj', 'nonh', 'nod',
+'nol', 'nolg', 'nolm', 'nolb', 'nols', 'nolt', 'nolp', 'nolh', 'nom', 'nob', 'nobs', 'nos', 'noss', 'nong', 'noj', 'noc',
+'nok', 'not', 'nop', 'noh', 'nwa', 'nwag', 'nwagg', 'nwags', 'nwan', 'nwanj', 'nwanh', 'nwad', 'nwal', 'nwalg', 'nwalm', 'nwalb',
+'nwals', 'nwalt', 'nwalp', 'nwalh', 'nwam', 'nwab', 'nwabs', 'nwas', 'nwass', 'nwang', 'nwaj', 'nwac', 'nwak', 'nwat', 'nwap', 'nwah',
+'nwae', 'nwaeg', 'nwaegg', 'nwaegs', 'nwaen', 'nwaenj', 'nwaenh', 'nwaed', 'nwael', 'nwaelg', 'nwaelm', 'nwaelb', 'nwaels', 'nwaelt', 'nwaelp', 'nwaelh',
+'nwaem', 'nwaeb', 'nwaebs', 'nwaes', 'nwaess', 'nwaeng', 'nwaej', 'nwaec', 'nwaek', 'nwaet', 'nwaep', 'nwaeh', 'noe', 'noeg', 'noegg', 'noegs',
+'noen', 'noenj', 'noenh', 'noed', 'noel', 'noelg', 'noelm', 'noelb', 'noels', 'noelt', 'noelp', 'noelh', 'noem', 'noeb', 'noebs', 'noes',
+'noess', 'noeng', 'noej', 'noec', 'noek', 'noet', 'noep', 'noeh', 'nyo', 'nyog', 'nyogg', 'nyogs', 'nyon', 'nyonj', 'nyonh', 'nyod',
+'nyol', 'nyolg', 'nyolm', 'nyolb', 'nyols', 'nyolt', 'nyolp', 'nyolh', 'nyom', 'nyob', 'nyobs', 'nyos', 'nyoss', 'nyong', 'nyoj', 'nyoc',
 );

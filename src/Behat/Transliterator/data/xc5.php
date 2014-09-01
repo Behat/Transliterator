@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xc5] = array(
-'E ','Cheng ','Xin ','Ai ','Lu ','Zhui ','Zhou ','She ','Pian ','Kun ','Tao ','Lai ','Zong ','Ke ','Qi ','Qi ','Yan ','Fei ','Sao ','Yan ','Jie ','Yao ','Wu ','Pian ','Cong ','Pian ','Qian ','Fei ','Huang ','Jian ','Huo ','Yu ','Ti ','Quan ','Xia ','Zong ','Kui ','Rou ','Si ','Gua ','Tuo ','Kui ','Sou ','Qian ','Cheng ','Zhi ','Liu ','Pang ','Teng ','Xi ','Cao ','Du ','Yan ','Yuan ','Zou ','Sao ','Shan ','Li ','Zhi ','Shuang ','Lu ','Xi ','Luo ','Zhang ','Mo ','Ao ','Can ','Piao ','Cong ','Qu ','Bi ','Zhi ','Yu ','Xu ','Hua ','Bo ','Su ','Xiao ','Lin ','Chan ','Dun ','Liu ','Tuo ','Zeng ','Tan ','Jiao ','Tie ','Yan ','Luo ','Zhan ','Jing ','Yi ','Ye ','Tuo ','Bin ','Zou ','Yan ','Peng ','Lu ','Teng ','Xiang ','Ji ','Shuang ','Ju ','Xi ','Huan ','Li ','Biao ','Ma ','Yu ','Tuo ','Xun ','Chi ','Qu ','Ri ','Bo ','Lu ','Zang ','Shi ','Si ','Fu ','Ju ','Zou ','Zhu ','Tuo ','Nu ','Jia ','Yi ','Tai ','Xiao ','Ma ','Yin ','Jiao ','Hua ','Luo ','Hai ','Pian ','Biao ','Li ','Cheng ','Yan ','Xin ','Qin ','Jun ','Qi ','Qi ','Ke ','Zhui ','Zong ','Su ','Can ','Pian ','Zhi ','Kui ','Sao ','Wu ','Ao ','Liu ','Qian ','Shan ','Piao ','Luo ','Cong ','Chan ','Zou ','Ji ','Shuang ','Xiang ','Gu ','Wei ','Wei ','Wei ','Yu ','Gan ','Yi ','Ang ','Tou ','Xie ','Bao ','Bi ','Chi ','Ti ','Di ','Ku ','Hai ','Qiao ','Gou ','Kua ','Ge ','Tui ','Geng ','Pian ','Bi ','Ke ','Ka ','Yu ','Sui ','Lou ','Bo ','Xiao ','Pang ','Bo ','Ci ','Kuan ','Bin ','Mo ','Liao ','Lou ','Nao ','Du ','Zang ','Sui ','Ti ','Bin ','Kuan ','Lu ','Gao ','Gao ','Qiao ','Kao ','Qiao ','Lao ','Zao ','Biao ','Kun ','Kun ','Ti ','Fang ','Xiu ','Ran ','Mao ','Dan ','Kun ','Bin ','Fa ','Tiao ','Peng ','Zi ','Fa ','Ran ','Ti ','Pao ','Pi ','Mao ','Fu ','Er ','Rong ','Qu ','Gong ','Xiu ','Gua ','Ji ','Peng ','Zhua ','Shao ','Sha ',
+'sseum', 'sseub', 'sseubs', 'sseus', 'sseuss', 'sseung', 'sseuj', 'sseuc', 'sseuk', 'sseut', 'sseup', 'sseuh', 'ssyi', 'ssyig', 'ssyigg', 'ssyigs',
+'ssyin', 'ssyinj', 'ssyinh', 'ssyid', 'ssyil', 'ssyilg', 'ssyilm', 'ssyilb', 'ssyils', 'ssyilt', 'ssyilp', 'ssyilh', 'ssyim', 'ssyib', 'ssyibs', 'ssyis',
+'ssyiss', 'ssying', 'ssyij', 'ssyic', 'ssyik', 'ssyit', 'ssyip', 'ssyih', 'ssi', 'ssig', 'ssigg', 'ssigs', 'ssin', 'ssinj', 'ssinh', 'ssid',
+'ssil', 'ssilg', 'ssilm', 'ssilb', 'ssils', 'ssilt', 'ssilp', 'ssilh', 'ssim', 'ssib', 'ssibs', 'ssis', 'ssiss', 'ssing', 'ssij', 'ssic',
+'ssik', 'ssit', 'ssip', 'ssih', 'a', 'ag', 'agg', 'ags', 'an', 'anj', 'anh', 'ad', 'al', 'alg', 'alm', 'alb',
+'als', 'alt', 'alp', 'alh', 'am', 'ab', 'abs', 'as', 'ass', 'ang', 'aj', 'ac', 'ak', 'at', 'ap', 'ah',
+'ae', 'aeg', 'aegg', 'aegs', 'aen', 'aenj', 'aenh', 'aed', 'ael', 'aelg', 'aelm', 'aelb', 'aels', 'aelt', 'aelp', 'aelh',
+'aem', 'aeb', 'aebs', 'aes', 'aess', 'aeng', 'aej', 'aec', 'aek', 'aet', 'aep', 'aeh', 'ya', 'yag', 'yagg', 'yags',
+'yan', 'yanj', 'yanh', 'yad', 'yal', 'yalg', 'yalm', 'yalb', 'yals', 'yalt', 'yalp', 'yalh', 'yam', 'yab', 'yabs', 'yas',
+'yass', 'yang', 'yaj', 'yac', 'yak', 'yat', 'yap', 'yah', 'yae', 'yaeg', 'yaegg', 'yaegs', 'yaen', 'yaenj', 'yaenh', 'yaed',
+'yael', 'yaelg', 'yaelm', 'yaelb', 'yaels', 'yaelt', 'yaelp', 'yaelh', 'yaem', 'yaeb', 'yaebs', 'yaes', 'yaess', 'yaeng', 'yaej', 'yaec',
+'yaek', 'yaet', 'yaep', 'yaeh', 'eo', 'eog', 'eogg', 'eogs', 'eon', 'eonj', 'eonh', 'eod', 'eol', 'eolg', 'eolm', 'eolb',
+'eols', 'eolt', 'eolp', 'eolh', 'eom', 'eob', 'eobs', 'eos', 'eoss', 'eong', 'eoj', 'eoc', 'eok', 'eot', 'eop', 'eoh',
+'e', 'eg', 'egg', 'egs', 'en', 'enj', 'enh', 'ed', 'el', 'elg', 'elm', 'elb', 'els', 'elt', 'elp', 'elh',
+'em', 'eb', 'ebs', 'es', 'ess', 'eng', 'ej', 'ec', 'ek', 'et', 'ep', 'eh', 'yeo', 'yeog', 'yeogg', 'yeogs',
+'yeon', 'yeonj', 'yeonh', 'yeod', 'yeol', 'yeolg', 'yeolm', 'yeolb', 'yeols', 'yeolt', 'yeolp', 'yeolh', 'yeom', 'yeob', 'yeobs', 'yeos',
 );

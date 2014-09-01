@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xf9] = array(
-'gwan','gwanj','gwanh','gwad','gwal','gwalg','gwalm','gwalb','gwals','gwalt','gwalp','gwalh','gwam','gwab','gwabs','gwas','gwass','gwang','gwaj','gwac','gwak','gwat','gwap','gwah','gwae','gwaeg','gwaegg','gwaegs','gwaen','gwaenj','gwaenh','gwaed','gwael','gwaelg','gwaelm','gwaelb','gwaels','gwaelt','gwaelp','gwaelh','gwaem','gwaeb','gwaebs','gwaes','gwaess','gwaeng','gwaej','gwaec','gwaek','gwaet','gwaep','gwaeh','goe','goeg','goegg','goegs','goen','goenj','goenh','goed','goel','goelg','goelm','goelb','goels','goelt','goelp','goelh','goem','goeb','goebs','goes','goess','goeng','goej','goec','goek','goet','goep','goeh','gyo','gyog','gyogg','gyogs','gyon','gyonj','gyonh','gyod','gyol','gyolg','gyolm','gyolb','gyols','gyolt','gyolp','gyolh','gyom','gyob','gyobs','gyos','gyoss','gyong','gyoj','gyoc','gyok','gyot','gyop','gyoh','gu','gug','gugg','gugs','gun','gunj','gunh','gud','gul','gulg','gulm','gulb','guls','gult','gulp','gulh','gum','gub','gubs','gus','guss','gung','guj','guc','guk','gut','gup','guh','gweo','gweog','gweogg','gweogs','gweon','gweonj','gweonh','gweod','gweol','gweolg','gweolm','gweolb','gweols','gweolt','gweolp','gweolh','gweom','gweob','gweobs','gweos','gweoss','gweong','gweoj','gweoc','gweok','gweot','gweop','gweoh','gwe','gweg','gwegg','gwegs','gwen','gwenj','gwenh','gwed','gwel','gwelg','gwelm','gwelb','gwels','gwelt','gwelp','gwelh','gwem','gweb','gwebs','gwes','gwess','gweng','gwej','gwec','gwek','gwet','gwep','gweh','gwi','gwig','gwigg','gwigs','gwin','gwinj','gwinh','gwid','gwil','gwilg','gwilm','gwilb','gwils','gwilt','gwilp','gwilh','gwim','gwib','gwibs','gwis','gwiss','gwing','gwij','gwic','gwik','gwit','gwip','gwih','gyu','gyug','gyugg','gyugs','gyun','gyunj','gyunh','gyud','gyul','gyulg','gyulm','gyulb','gyuls','gyult','gyulp','gyulh','gyum','gyub','gyubs','gyus','gyuss','gyung','gyuj','gyuc','gyuk','gyut','gyup','gyuh','geu','geug','geugg','geugs','geun','geunj','geunh','geud',
+'Kay ', 'Kayng ', 'Ke ', 'Ko ', 'Kol ', 'Koc ', 'Kwi ', 'Kwi ', 'Kyun ', 'Kul ', 'Kum ', 'Na ', 'Na ', 'Na ', 'La ', 'Na ',
+'Na ', 'Na ', 'Na ', 'Na ', 'Nak ', 'Nak ', 'Nak ', 'Nak ', 'Nak ', 'Nak ', 'Nak ', 'Nan ', 'Nan ', 'Nan ', 'Nan ', 'Nan ',
+'Nan ', 'Nam ', 'Nam ', 'Nam ', 'Nam ', 'Nap ', 'Nap ', 'Nap ', 'Nang ', 'Nang ', 'Nang ', 'Nang ', 'Nang ', 'Nay ', 'Nayng ', 'No ',
+'No ', 'No ', 'No ', 'No ', 'No ', 'No ', 'No ', 'No ', 'No ', 'No ', 'No ', 'Nok ', 'Nok ', 'Nok ', 'Nok ', 'Nok ',
+'Nok ', 'Non ', 'Nong ', 'Nong ', 'Nong ', 'Nong ', 'Noy ', 'Noy ', 'Noy ', 'Noy ', 'Nwu ', 'Nwu ', 'Nwu ', 'Nwu ', 'Nwu ', 'Nwu ',
+'Nwu ', 'Nwu ', 'Nuk ', 'Nuk ', 'Num ', 'Nung ', 'Nung ', 'Nung ', 'Nung ', 'Nung ', 'Twu ', 'La ', 'Lak ', 'Lak ', 'Lan ', 'Lyeng ',
+'Lo ', 'Lyul ', 'Li ', 'Pey ', 'Pen ', 'Pyen ', 'Pwu ', 'Pwul ', 'Pi ', 'Sak ', 'Sak ', 'Sam ', 'Sayk ', 'Sayng ', 'Sep ', 'Sey ',
+'Sway ', 'Sin ', 'Sim ', 'Sip ', 'Ya ', 'Yak ', 'Yak ', 'Yang ', 'Yang ', 'Yang ', 'Yang ', 'Yang ', 'Yang ', 'Yang ', 'Yang ', 'Ye ',
+'Ye ', 'Ye ', 'Ye ', 'Ye ', 'Ye ', 'Ye ', 'Ye ', 'Ye ', 'Ye ', 'Ye ', 'Yek ', 'Yek ', 'Yek ', 'Yek ', 'Yen ', 'Yen ',
+'Yen ', 'Yen ', 'Yen ', 'Yen ', 'Yen ', 'Yen ', 'Yen ', 'Yen ', 'Yen ', 'Yen ', 'Yen ', 'Yen ', 'Yel ', 'Yel ', 'Yel ', 'Yel ',
+'Yel ', 'Yel ', 'Yem ', 'Yem ', 'Yem ', 'Yem ', 'Yem ', 'Yep ', 'Yeng ', 'Yeng ', 'Yeng ', 'Yeng ', 'Yeng ', 'Yeng ', 'Yeng ', 'Yeng ',
+'Yeng ', 'Yeng ', 'Yeng ', 'Yeng ', 'Yeng ', 'Yey ', 'Yey ', 'Yey ', 'Yey ', 'O ', 'Yo ', 'Yo ', 'Yo ', 'Yo ', 'Yo ', 'Yo ',
+'Yo ', 'Yo ', 'Yo ', 'Yo ', 'Yong ', 'Wun ', 'Wen ', 'Yu ', 'Yu ', 'Yu ', 'Yu ', 'Yu ', 'Yu ', 'Yu ', 'Yu ', 'Yu ',
+'Yu ', 'Yuk ', 'Yuk ', 'Yuk ', 'Yun ', 'Yun ', 'Yun ', 'Yun ', 'Yul ', 'Yul ', 'Yul ', 'Yul ', 'Yung ', 'I ', 'I ', 'I ',
+'I ', 'I ', 'I ', 'I ', 'I ', 'I ', 'I ', 'I ', 'I ', 'I ', 'I ', 'Ik ', 'Ik ', 'In ', 'In ', 'In ',
+'In ', 'In ', 'In ', 'In ', 'Im ', 'Im ', 'Im ', 'Ip ', 'Ip ', 'Ip ', 'Cang ', 'Cek ', 'Ci ', 'Cip ', 'Cha ', 'Chek ',
 );

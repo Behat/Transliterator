@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0x93] = array(
-'Qing ','Yu ','Piao ','Ji ','Ya ','Jiao ','Qi ','Xi ','Ji ','Lu ','Lu ','Long ','Jin ','Guo ','Cong ','Lou ','Zhi ','Gai ','Qiang ','Li ','Yan ','Cao ','Jiao ','Cong ','Qun ','Tuan ','Ou ','Teng ','Ye ','Xi ','Mi ','Tang ','Mo ','Shang ','Han ','Lian ','Lan ','Wa ','Li ','Qian ','Feng ','Xuan ','Yi ','Man ','Zi ','Mang ','Kang ','Lei ','Peng ','Shu ','Zhang ','Zhang ','Chong ','Xu ','Huan ','Kuo ','Jian ','Yan ','Chuang ','Liao ','Cui ','Ti ','Yang ','Jiang ','Cong ','Ying ','Hong ','Xun ','Shu ','Guan ','Ying ','Xiao ','[?] ','[?] ','Xu ','Lian ','Zhi ','Wei ','Pi ','Jue ','Jiao ','Po ','Dang ','Hui ','Jie ','Wu ','Pa ','Ji ','Pan ','Gui ','Xiao ','Qian ','Qian ','Xi ','Lu ','Xi ','Xuan ','Dun ','Huang ','Min ','Run ','Su ','Liao ','Zhen ','Zhong ','Yi ','Di ','Wan ','Dan ','Tan ','Chao ','Xun ','Kui ','Yie ','Shao ','Tu ','Zhu ','San ','Hei ','Bi ','Shan ','Chan ','Chan ','Shu ','Tong ','Pu ','Lin ','Wei ','Se ','Se ','Cheng ','Jiong ','Cheng ','Hua ','Jiao ','Lao ','Che ','Gan ','Cun ','Heng ','Si ','Shu ','Peng ','Han ','Yun ','Liu ','Hong ','Fu ','Hao ','He ','Xian ','Jian ','Shan ','Xi ','Oki ','[?] ','Lan ','[?] ','Yu ','Lin ','Min ','Zao ','Dang ','Wan ','Ze ','Xie ','Yu ','Li ','Shi ','Xue ','Ling ','Man ','Zi ','Yong ','Kuai ','Can ','Lian ','Dian ','Ye ','Ao ','Huan ','Zhen ','Chan ','Man ','Dan ','Dan ','Yi ','Sui ','Pi ','Ju ','Ta ','Qin ','Ji ','Zhuo ','Lian ','Nong ','Guo ','Jin ','Fen ','Se ','Ji ','Sui ','Hui ','Chu ','Ta ','Song ','Ding ','[?] ','Zhu ','Lai ','Bin ','Lian ','Mi ','Shi ','Shu ','Mi ','Ning ','Ying ','Ying ','Meng ','Jin ','Qi ','Pi ','Ji ','Hao ','Ru ','Zui ','Wo ','Tao ','Yin ','Yin ','Dui ','Ci ','Huo ','Jing ','Lan ','Jun ','Ai ','Pu ','Zhuo ','Wei ','Bin ','Gu ','Qian ','Xing ','Hama ','Kuo ','Fei ','[?] ','Boku ','Jian ','Wei ','Luo ','Zan ','Lu ','Li ',
+'Lun ', 'Kua ', 'Ling ', 'Bei ', 'Lu ', 'Li ', 'Qiang ', 'Pou ', 'Juan ', 'Min ', 'Zui ', 'Peng ', 'An ', 'Pi ', 'Xian ', 'Ya ',
+'Zhui ', 'Lei ', 'A ', 'Kong ', 'Ta ', 'Kun ', 'Du ', 'Wei ', 'Chui ', 'Zi ', 'Zheng ', 'Ben ', 'Nie ', 'Cong ', 'Qun ', 'Tan ',
+'Ding ', 'Qi ', 'Qian ', 'Zhuo ', 'Qi ', 'Yu ', 'Jin ', 'Guan ', 'Mao ', 'Chang ', 'Tian ', 'Xi ', 'Lian ', 'Tao ', 'Gu ', 'Cuo ',
+'Shu ', 'Zhen ', 'Lu ', 'Meng ', 'Lu ', 'Hua ', 'Biao ', 'Ga ', 'Lai ', 'Ken ', 'Kazari ', 'Bu ', 'Nai ', 'Wan ', 'Zan ', '[?]',
+'De ', 'Xian ', '[?]', 'Huo ', 'Liang ', '[?]', 'Men ', 'Kai ', 'Ying ', 'Di ', 'Lian ', 'Guo ', 'Xian ', 'Du ', 'Tu ', 'Wei ',
+'Cong ', 'Fu ', 'Rou ', 'Ji ', 'E ', 'Rou ', 'Chen ', 'Ti ', 'Zha ', 'Hong ', 'Yang ', 'Duan ', 'Xia ', 'Yu ', 'Keng ', 'Xing ',
+'Huang ', 'Wei ', 'Fu ', 'Zhao ', 'Cha ', 'Qie ', 'She ', 'Hong ', 'Kui ', 'Tian ', 'Mou ', 'Qiao ', 'Qiao ', 'Hou ', 'Tou ', 'Cong ',
+'Huan ', 'Ye ', 'Min ', 'Jian ', 'Duan ', 'Jian ', 'Song ', 'Kui ', 'Hu ', 'Xuan ', 'Duo ', 'Jie ', 'Zhen ', 'Bian ', 'Zhong ', 'Zi ',
+'Xiu ', 'Ye ', 'Mei ', 'Pai ', 'Ai ', 'Jie ', '[?]', 'Mei ', 'Chuo ', 'Ta ', 'Bang ', 'Xia ', 'Lian ', 'Suo ', 'Xi ', 'Liu ',
+'Zu ', 'Ye ', 'Nou ', 'Weng ', 'Rong ', 'Tang ', 'Suo ', 'Qiang ', 'Ge ', 'Shuo ', 'Chui ', 'Bo ', 'Pan ', 'Sa ', 'Bi ', 'Sang ',
+'Gang ', 'Zi ', 'Wu ', 'Ying ', 'Huang ', 'Tiao ', 'Liu ', 'Kai ', 'Sun ', 'Sha ', 'Sou ', 'Wan ', 'Hao ', 'Zhen ', 'Zhen ', 'Luo ',
+'Yi ', 'Yuan ', 'Tang ', 'Nie ', 'Xi ', 'Jia ', 'Ge ', 'Ma ', 'Juan ', 'Kasugai ', 'Habaki ', 'Suo ', '[?]', '[?]', '[?]', 'Na ',
+'Lu ', 'Suo ', 'Ou ', 'Zu ', 'Tuan ', 'Xiu ', 'Guan ', 'Xuan ', 'Lian ', 'Shou ', 'Ao ', 'Man ', 'Mo ', 'Luo ', 'Bi ', 'Wei ',
+'Liu ', 'Di ', 'Qiao ', 'Cong ', 'Yi ', 'Lu ', 'Ao ', 'Keng ', 'Qiang ', 'Cui ', 'Qi ', 'Chang ', 'Tang ', 'Man ', 'Yong ', 'Chan ',
+'Feng ', 'Jing ', 'Biao ', 'Shu ', 'Lou ', 'Xiu ', 'Cong ', 'Long ', 'Zan ', 'Jian ', 'Cao ', 'Li ', 'Xia ', 'Xi ', 'Kang ', '[?]',
+'Beng ', '[?]', '[?]', 'Zheng ', 'Lu ', 'Hua ', 'Ji ', 'Pu ', 'Hui ', 'Qiang ', 'Po ', 'Lin ', 'Suo ', 'Xiu ', 'San ', 'Cheng ',
 );

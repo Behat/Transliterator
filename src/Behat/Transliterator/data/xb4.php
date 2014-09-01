@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xb4] = array(
-'Ji ','Zhi ','Gua ','Ken ','Che ','Ti ','Ti ','Fu ','Chong ','Xie ','Bian ','Die ','Kun ','Duan ','Xiu ','Xiu ','He ','Yuan ','Bao ','Bao ','Fu ','Yu ','Tuan ','Yan ','Hui ','Bei ','Chu ','Lu ','Ena ','Hitoe ','Yun ','Da ','Gou ','Da ','Huai ','Rong ','Yuan ','Ru ','Nai ','Jiong ','Suo ','Ban ','Tun ','Chi ','Sang ','Niao ','Ying ','Jie ','Qian ','Huai ','Ku ','Lian ','Bao ','Li ','Zhe ','Shi ','Lu ','Yi ','Die ','Xie ','Xian ','Wei ','Biao ','Cao ','Ji ','Jiang ','Sen ','Bao ','Xiang ','Chihaya ','Pu ','Jian ','Zhuan ','Jian ','Zui ','Ji ','Dan ','Za ','Fan ','Bo ','Xiang ','Xin ','Bie ','Rao ','Man ','Lan ','Ao ','Duo ','Gui ','Cao ','Sui ','Nong ','Chan ','Lian ','Bi ','Jin ','Dang ','Shu ','Tan ','Bi ','Lan ','Pu ','Ru ','Zhi ','[?] ','Shu ','Wa ','Shi ','Bai ','Xie ','Bo ','Chen ','Lai ','Long ','Xi ','Xian ','Lan ','Zhe ','Dai ','Tasuki ','Zan ','Shi ','Jian ','Pan ','Yi ','Ran ','Ya ','Xi ','Xi ','Yao ','Feng ','Tan ','[?] ','Biao ','Fu ','Ba ','He ','Ji ','Ji ','Jian ','Guan ','Bian ','Yan ','Gui ','Jue ','Pian ','Mao ','Mi ','Mi ','Mie ','Shi ','Si ','Zhan ','Luo ','Jue ','Mi ','Tiao ','Lian ','Yao ','Zhi ','Jun ','Xi ','Shan ','Wei ','Xi ','Tian ','Yu ','Lan ','E ','Du ','Qin ','Pang ','Ji ','Ming ','Ying ','Gou ','Qu ','Zhan ','Jin ','Guan ','Deng ','Jian ','Luo ','Qu ','Jian ','Wei ','Jue ','Qu ','Luo ','Lan ','Shen ','Di ','Guan ','Jian ','Guan ','Yan ','Gui ','Mi ','Shi ','Zhan ','Lan ','Jue ','Ji ','Xi ','Di ','Tian ','Yu ','Gou ','Jin ','Qu ','Jiao ','Jiu ','Jin ','Cu ','Jue ','Zhi ','Chao ','Ji ','Gu ','Dan ','Zui ','Di ','Shang ','Hua ','Quan ','Ge ','Chi ','Jie ','Gui ','Gong ','Hong ','Jie ','Hun ','Qiu ','Xing ','Su ','Ni ','Ji ','Lu ','Zhi ','Zha ','Bi ','Xing ','Hu ','Shang ','Gong ','Zhi ','Xue ','Chu ','Xi ','Yi ','Lu ','Jue ','Xi ','Yan ','Xi ',
+'dwaen', 'dwaenj', 'dwaenh', 'dwaed', 'dwael', 'dwaelg', 'dwaelm', 'dwaelb', 'dwaels', 'dwaelt', 'dwaelp', 'dwaelh', 'dwaem', 'dwaeb', 'dwaebs', 'dwaes',
+'dwaess', 'dwaeng', 'dwaej', 'dwaec', 'dwaek', 'dwaet', 'dwaep', 'dwaeh', 'doe', 'doeg', 'doegg', 'doegs', 'doen', 'doenj', 'doenh', 'doed',
+'doel', 'doelg', 'doelm', 'doelb', 'doels', 'doelt', 'doelp', 'doelh', 'doem', 'doeb', 'doebs', 'does', 'doess', 'doeng', 'doej', 'doec',
+'doek', 'doet', 'doep', 'doeh', 'dyo', 'dyog', 'dyogg', 'dyogs', 'dyon', 'dyonj', 'dyonh', 'dyod', 'dyol', 'dyolg', 'dyolm', 'dyolb',
+'dyols', 'dyolt', 'dyolp', 'dyolh', 'dyom', 'dyob', 'dyobs', 'dyos', 'dyoss', 'dyong', 'dyoj', 'dyoc', 'dyok', 'dyot', 'dyop', 'dyoh',
+'du', 'dug', 'dugg', 'dugs', 'dun', 'dunj', 'dunh', 'dud', 'dul', 'dulg', 'dulm', 'dulb', 'duls', 'dult', 'dulp', 'dulh',
+'dum', 'dub', 'dubs', 'dus', 'duss', 'dung', 'duj', 'duc', 'duk', 'dut', 'dup', 'duh', 'dweo', 'dweog', 'dweogg', 'dweogs',
+'dweon', 'dweonj', 'dweonh', 'dweod', 'dweol', 'dweolg', 'dweolm', 'dweolb', 'dweols', 'dweolt', 'dweolp', 'dweolh', 'dweom', 'dweob', 'dweobs', 'dweos',
+'dweoss', 'dweong', 'dweoj', 'dweoc', 'dweok', 'dweot', 'dweop', 'dweoh', 'dwe', 'dweg', 'dwegg', 'dwegs', 'dwen', 'dwenj', 'dwenh', 'dwed',
+'dwel', 'dwelg', 'dwelm', 'dwelb', 'dwels', 'dwelt', 'dwelp', 'dwelh', 'dwem', 'dweb', 'dwebs', 'dwes', 'dwess', 'dweng', 'dwej', 'dwec',
+'dwek', 'dwet', 'dwep', 'dweh', 'dwi', 'dwig', 'dwigg', 'dwigs', 'dwin', 'dwinj', 'dwinh', 'dwid', 'dwil', 'dwilg', 'dwilm', 'dwilb',
+'dwils', 'dwilt', 'dwilp', 'dwilh', 'dwim', 'dwib', 'dwibs', 'dwis', 'dwiss', 'dwing', 'dwij', 'dwic', 'dwik', 'dwit', 'dwip', 'dwih',
+'dyu', 'dyug', 'dyugg', 'dyugs', 'dyun', 'dyunj', 'dyunh', 'dyud', 'dyul', 'dyulg', 'dyulm', 'dyulb', 'dyuls', 'dyult', 'dyulp', 'dyulh',
+'dyum', 'dyub', 'dyubs', 'dyus', 'dyuss', 'dyung', 'dyuj', 'dyuc', 'dyuk', 'dyut', 'dyup', 'dyuh', 'deu', 'deug', 'deugg', 'deugs',
+'deun', 'deunj', 'deunh', 'deud', 'deul', 'deulg', 'deulm', 'deulb', 'deuls', 'deult', 'deulp', 'deulh', 'deum', 'deub', 'deubs', 'deus',
+'deuss', 'deung', 'deuj', 'deuc', 'deuk', 'deut', 'deup', 'deuh', 'dyi', 'dyig', 'dyigg', 'dyigs', 'dyin', 'dyinj', 'dyinh', 'dyid',
 );

@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0x12] = array(
-'g','gg','n','d','dd','r','m','b','bb','s','ss','','j','jj','c','k','t','p','h','ng','nn','nd','nb','dg','rn','rr','rh','rN','mb','mN','bg','bn','','bs','bsg','bst','bsb','bss','bsj','bj','bc','bt','bp','bN','bbN','sg','sn','sd','sr','sm','sb','sbg','sss','s','sj','sc','sk','st','sp','sh','','','','','Z','g','d','m','b','s','Z','','j','c','t','p','N','j','','','','','ck','ch','','','pb','pN','hh','Q','[?]','[?]','[?]','[?]','[?]','','','a','ae','ya','yae','eo','e','yeo','ye','o','wa','wae','oe','yo','u','weo','we','wi','yu','eu','yi','i','a-o','a-u','ya-o','ya-yo','eo-o','eo-u','eo-eu','yeo-o','yeo-u','o-eo','o-e','o-ye','o-o','o-u','yo-ya','yo-yae','yo-yeo','yo-o','yo-i','u-a','u-ae','u-eo-eu','u-ye','u-u','yu-a','yu-eo','yu-e','yu-yeo','yu-ye','yu-u','yu-i','eu-u','eu-eu','yi-u','i-a','i-ya','i-o','i-u','i-eu','i-U','U','U-eo','U-u','U-i','UU','[?]','[?]','[?]','[?]','[?]','g','gg','gs','n','nj','nh','d','l','lg','lm','lb','ls','lt','lp','lh','m','b','bs','s','ss','ng','j','c','k','t','p','h','gl','gsg','ng','nd','ns','nZ','nt','dg','tl','lgs','ln','ld','lth','ll','lmg','lms','lbs','lbh','rNp','lss','lZ','lk','lQ','mg','ml','mb','ms','mss','mZ','mc','mh','mN','bl','bp','ph','pN','sg','sd','sl','sb','Z','g','ss','','kh','N','Ns','NZ','pb','pN','hn','hl','hm','hb','Q','[?]','[?]','[?]','[?]','[?]',
+'ha', 'hu', 'hi', 'haa', 'hee', 'he', 'ho', '[?]', 'la', 'lu', 'li', 'laa', 'lee', 'le', 'lo', 'lwa',
+'hha', 'hhu', 'hhi', 'hhaa', 'hhee', 'hhe', 'hho', 'hhwa', 'ma', 'mu', 'mi', 'maa', 'mee', 'me', 'mo', 'mwa',
+'sza', 'szu', 'szi', 'szaa', 'szee', 'sze', 'szo', 'szwa', 'ra', 'ru', 'ri', 'raa', 'ree', 're', 'ro', 'rwa',
+'sa', 'su', 'si', 'saa', 'see', 'se', 'so', 'swa', 'sha', 'shu', 'shi', 'shaa', 'shee', 'she', 'sho', 'shwa',
+'qa', 'qu', 'qi', 'qaa', 'qee', 'qe', 'qo', '[?]', 'qwa', '[?]', 'qwi', 'qwaa', 'qwee', 'qwe', '[?]', '[?]',
+'qha', 'qhu', 'qhi', 'qhaa', 'qhee', 'qhe', 'qho', '[?]', 'qhwa', '[?]', 'qhwi', 'qhwaa', 'qhwee', 'qhwe', '[?]', '[?]',
+'ba', 'bu', 'bi', 'baa', 'bee', 'be', 'bo', 'bwa', 'va', 'vu', 'vi', 'vaa', 'vee', 've', 'vo', 'vwa',
+'ta', 'tu', 'ti', 'taa', 'tee', 'te', 'to', 'twa', 'ca', 'cu', 'ci', 'caa', 'cee', 'ce', 'co', 'cwa',
+'xa', 'xu', 'xi', 'xaa', 'xee', 'xe', 'xo', '[?]', 'xwa', '[?]', 'xwi', 'xwaa', 'xwee', 'xwe', '[?]', '[?]',
+'na', 'nu', 'ni', 'naa', 'nee', 'ne', 'no', 'nwa', 'nya', 'nyu', 'nyi', 'nyaa', 'nyee', 'nye', 'nyo', 'nywa',
+'\'a', '\'u', '[?]', '\'aa', '\'ee', '\'e', '\'o', '\'wa', 'ka', 'ku', 'ki', 'kaa', 'kee', 'ke', 'ko', '[?]',
+'kwa', '[?]', 'kwi', 'kwaa', 'kwee', 'kwe', '[?]', '[?]', 'kxa', 'kxu', 'kxi', 'kxaa', 'kxee', 'kxe', 'kxo', '[?]',
+'kxwa', '[?]', 'kxwi', 'kxwaa', 'kxwee', 'kxwe', '[?]', '[?]', 'wa', 'wu', 'wi', 'waa', 'wee', 'we', 'wo', '[?]',
+'`a', '`u', '`i', '`aa', '`ee', '`e', '`o', '[?]', 'za', 'zu', 'zi', 'zaa', 'zee', 'ze', 'zo', 'zwa',
+'zha', 'zhu', 'zhi', 'zhaa', 'zhee', 'zhe', 'zho', 'zhwa', 'ya', 'yu', 'yi', 'yaa', 'yee', 'ye', 'yo', '[?]',
+'da', 'du', 'di', 'daa', 'dee', 'de', 'do', 'dwa', 'dda', 'ddu', 'ddi', 'ddaa', 'ddee', 'dde', 'ddo', 'ddwa',
 );
