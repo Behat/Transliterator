@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xb7] = array(
-'Yu ','Shui ','Shen ','Diao ','Chan ','Liang ','Zhun ','Sui ','Tan ','Shen ','Yi ','Mou ','Chen ','Die ','Huang ','Jian ','Xie ','Nue ','Ye ','Wei ','E ','Yu ','Xuan ','Chan ','Zi ','An ','Yan ','Di ','Mi ','Pian ','Xu ','Mo ','Dang ','Su ','Xie ','Yao ','Bang ','Shi ','Qian ','Mi ','Jin ','Man ','Zhe ','Jian ','Miu ','Tan ','Zen ','Qiao ','Lan ','Pu ','Jue ','Yan ','Qian ','Zhan ','Chen ','Gu ','Qian ','Hong ','Xia ','Jue ','Hong ','Han ','Hong ','Xi ','Xi ','Huo ','Liao ','Han ','Du ','Long ','Dou ','Jiang ','Qi ','Shi ','Li ','Deng ','Wan ','Bi ','Shu ','Xian ','Feng ','Zhi ','Zhi ','Yan ','Yan ','Shi ','Chu ','Hui ','Tun ','Yi ','Tun ','Yi ','Jian ','Ba ','Hou ','E ','Cu ','Xiang ','Huan ','Jian ','Ken ','Gai ','Qu ','Fu ','Xi ','Bin ','Hao ','Yu ','Zhu ','Jia ','[?] ','Xi ','Bo ','Wen ','Huan ','Bin ','Di ','Zong ','Fen ','Yi ','Zhi ','Bao ','Chai ','Han ','Pi ','Na ','Pi ','Gou ','Na ','You ','Diao ','Mo ','Si ','Xiu ','Huan ','Kun ','He ','He ','Mo ','Han ','Mao ','Li ','Ni ','Bi ','Yu ','Jia ','Tuan ','Mao ','Pi ','Xi ','E ','Ju ','Mo ','Chu ','Tan ','Huan ','Jue ','Bei ','Zhen ','Yuan ','Fu ','Cai ','Gong ','Te ','Yi ','Hang ','Wan ','Pin ','Huo ','Fan ','Tan ','Guan ','Ze ','Zhi ','Er ','Zhu ','Shi ','Bi ','Zi ','Er ','Gui ','Pian ','Bian ','Mai ','Dai ','Sheng ','Kuang ','Fei ','Tie ','Yi ','Chi ','Mao ','He ','Bi ','Lu ','Ren ','Hui ','Gai ','Pian ','Zi ','Jia ','Xu ','Zei ','Jiao ','Gai ','Zang ','Jian ','Ying ','Xun ','Zhen ','She ','Bin ','Bin ','Qiu ','She ','Chuan ','Zang ','Zhou ','Lai ','Zan ','Si ','Chen ','Shang ','Tian ','Pei ','Geng ','Xian ','Mai ','Jian ','Sui ','Fu ','Tan ','Cong ','Cong ','Zhi ','Ji ','Zhang ','Du ','Jin ','Xiong ','Shun ','Yun ','Bao ','Zai ','Lai ','Feng ','Cang ','Ji ','Sheng ','Ai ','Zhuan ','Fu ','Gou ','Sai ','Ze ','Liao ',
+'ddwim', 'ddwib', 'ddwibs', 'ddwis', 'ddwiss', 'ddwing', 'ddwij', 'ddwic', 'ddwik', 'ddwit', 'ddwip', 'ddwih', 'ddyu', 'ddyug', 'ddyugg', 'ddyugs',
+'ddyun', 'ddyunj', 'ddyunh', 'ddyud', 'ddyul', 'ddyulg', 'ddyulm', 'ddyulb', 'ddyuls', 'ddyult', 'ddyulp', 'ddyulh', 'ddyum', 'ddyub', 'ddyubs', 'ddyus',
+'ddyuss', 'ddyung', 'ddyuj', 'ddyuc', 'ddyuk', 'ddyut', 'ddyup', 'ddyuh', 'ddeu', 'ddeug', 'ddeugg', 'ddeugs', 'ddeun', 'ddeunj', 'ddeunh', 'ddeud',
+'ddeul', 'ddeulg', 'ddeulm', 'ddeulb', 'ddeuls', 'ddeult', 'ddeulp', 'ddeulh', 'ddeum', 'ddeub', 'ddeubs', 'ddeus', 'ddeuss', 'ddeung', 'ddeuj', 'ddeuc',
+'ddeuk', 'ddeut', 'ddeup', 'ddeuh', 'ddyi', 'ddyig', 'ddyigg', 'ddyigs', 'ddyin', 'ddyinj', 'ddyinh', 'ddyid', 'ddyil', 'ddyilg', 'ddyilm', 'ddyilb',
+'ddyils', 'ddyilt', 'ddyilp', 'ddyilh', 'ddyim', 'ddyib', 'ddyibs', 'ddyis', 'ddyiss', 'ddying', 'ddyij', 'ddyic', 'ddyik', 'ddyit', 'ddyip', 'ddyih',
+'ddi', 'ddig', 'ddigg', 'ddigs', 'ddin', 'ddinj', 'ddinh', 'ddid', 'ddil', 'ddilg', 'ddilm', 'ddilb', 'ddils', 'ddilt', 'ddilp', 'ddilh',
+'ddim', 'ddib', 'ddibs', 'ddis', 'ddiss', 'dding', 'ddij', 'ddic', 'ddik', 'ddit', 'ddip', 'ddih', 'ra', 'rag', 'ragg', 'rags',
+'ran', 'ranj', 'ranh', 'rad', 'ral', 'ralg', 'ralm', 'ralb', 'rals', 'ralt', 'ralp', 'ralh', 'ram', 'rab', 'rabs', 'ras',
+'rass', 'rang', 'raj', 'rac', 'rak', 'rat', 'rap', 'rah', 'rae', 'raeg', 'raegg', 'raegs', 'raen', 'raenj', 'raenh', 'raed',
+'rael', 'raelg', 'raelm', 'raelb', 'raels', 'raelt', 'raelp', 'raelh', 'raem', 'raeb', 'raebs', 'raes', 'raess', 'raeng', 'raej', 'raec',
+'raek', 'raet', 'raep', 'raeh', 'rya', 'ryag', 'ryagg', 'ryags', 'ryan', 'ryanj', 'ryanh', 'ryad', 'ryal', 'ryalg', 'ryalm', 'ryalb',
+'ryals', 'ryalt', 'ryalp', 'ryalh', 'ryam', 'ryab', 'ryabs', 'ryas', 'ryass', 'ryang', 'ryaj', 'ryac', 'ryak', 'ryat', 'ryap', 'ryah',
+'ryae', 'ryaeg', 'ryaegg', 'ryaegs', 'ryaen', 'ryaenj', 'ryaenh', 'ryaed', 'ryael', 'ryaelg', 'ryaelm', 'ryaelb', 'ryaels', 'ryaelt', 'ryaelp', 'ryaelh',
+'ryaem', 'ryaeb', 'ryaebs', 'ryaes', 'ryaess', 'ryaeng', 'ryaej', 'ryaec', 'ryaek', 'ryaet', 'ryaep', 'ryaeh', 'reo', 'reog', 'reogg', 'reogs',
+'reon', 'reonj', 'reonh', 'reod', 'reol', 'reolg', 'reolm', 'reolb', 'reols', 'reolt', 'reolp', 'reolh', 'reom', 'reob', 'reobs', 'reos',
 );

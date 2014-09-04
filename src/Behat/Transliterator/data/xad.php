@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xad] = array(
-'Yao ','Yu ','Chong ','Xi ','Xi ','Jiu ','Yu ','Yu ','Xing ','Ju ','Jiu ','Xin ','She ','She ','Yadoru ','Jiu ','Shi ','Tan ','Shu ','Shi ','Tian ','Dan ','Pu ','Pu ','Guan ','Hua ','Tan ','Chuan ','Shun ','Xia ','Wu ','Zhou ','Dao ','Gang ','Shan ','Yi ','[?] ','Pa ','Tai ','Fan ','Ban ','Chuan ','Hang ','Fang ','Ban ','Que ','Hesaki ','Zhong ','Jian ','Cang ','Ling ','Zhu ','Ze ','Duo ','Bo ','Xian ','Ge ','Chuan ','Jia ','Lu ','Hong ','Pang ','Xi ','[?] ','Fu ','Zao ','Feng ','Li ','Shao ','Yu ','Lang ','Ting ','[?] ','Wei ','Bo ','Meng ','Nian ','Ju ','Huang ','Shou ','Zong ','Bian ','Mao ','Die ','[?] ','Bang ','Cha ','Yi ','Sao ','Cang ','Cao ','Lou ','Dai ','Sori ','Yao ','Tong ','Yofune ','Dang ','Tan ','Lu ','Yi ','Jie ','Jian ','Huo ','Meng ','Qi ','Lu ','Lu ','Chan ','Shuang ','Gen ','Liang ','Jian ','Jian ','Se ','Yan ','Fu ','Ping ','Yan ','Yan ','Cao ','Cao ','Yi ','Le ','Ting ','Qiu ','Ai ','Nai ','Tiao ','Jiao ','Jie ','Peng ','Wan ','Yi ','Chai ','Mian ','Mie ','Gan ','Qian ','Yu ','Yu ','Shuo ','Qiong ','Tu ','Xia ','Qi ','Mang ','Zi ','Hui ','Sui ','Zhi ','Xiang ','Bi ','Fu ','Tun ','Wei ','Wu ','Zhi ','Qi ','Shan ','Wen ','Qian ','Ren ','Fou ','Kou ','Jie ','Lu ','Xu ','Ji ','Qin ','Qi ','Yuan ','Fen ','Ba ','Rui ','Xin ','Ji ','Hua ','Hua ','Fang ','Wu ','Jue ','Gou ','Zhi ','Yun ','Qin ','Ao ','Chu ','Mao ','Ya ','Fei ','Reng ','Hang ','Cong ','Yin ','You ','Bian ','Yi ','Susa ','Wei ','Li ','Pi ','E ','Xian ','Chang ','Cang ','Meng ','Su ','Yi ','Yuan ','Ran ','Ling ','Tai ','Tiao ','Di ','Miao ','Qiong ','Li ','Yong ','Ke ','Mu ','Pei ','Bao ','Gou ','Min ','Yi ','Yi ','Ju ','Pi ','Ruo ','Ku ','Zhu ','Ni ','Bo ','Bing ','Shan ','Qiu ','Yao ','Xian ','Ben ','Hong ','Ying ','Zha ','Dong ','Ju ','Die ','Nie ','Gan ','Hu ','Ping ','Mei ','Fu ','Sheng ','Gu ','Bi ','Wei ',
+'gwan', 'gwanj', 'gwanh', 'gwad', 'gwal', 'gwalg', 'gwalm', 'gwalb', 'gwals', 'gwalt', 'gwalp', 'gwalh', 'gwam', 'gwab', 'gwabs', 'gwas',
+'gwass', 'gwang', 'gwaj', 'gwac', 'gwak', 'gwat', 'gwap', 'gwah', 'gwae', 'gwaeg', 'gwaegg', 'gwaegs', 'gwaen', 'gwaenj', 'gwaenh', 'gwaed',
+'gwael', 'gwaelg', 'gwaelm', 'gwaelb', 'gwaels', 'gwaelt', 'gwaelp', 'gwaelh', 'gwaem', 'gwaeb', 'gwaebs', 'gwaes', 'gwaess', 'gwaeng', 'gwaej', 'gwaec',
+'gwaek', 'gwaet', 'gwaep', 'gwaeh', 'goe', 'goeg', 'goegg', 'goegs', 'goen', 'goenj', 'goenh', 'goed', 'goel', 'goelg', 'goelm', 'goelb',
+'goels', 'goelt', 'goelp', 'goelh', 'goem', 'goeb', 'goebs', 'goes', 'goess', 'goeng', 'goej', 'goec', 'goek', 'goet', 'goep', 'goeh',
+'gyo', 'gyog', 'gyogg', 'gyogs', 'gyon', 'gyonj', 'gyonh', 'gyod', 'gyol', 'gyolg', 'gyolm', 'gyolb', 'gyols', 'gyolt', 'gyolp', 'gyolh',
+'gyom', 'gyob', 'gyobs', 'gyos', 'gyoss', 'gyong', 'gyoj', 'gyoc', 'gyok', 'gyot', 'gyop', 'gyoh', 'gu', 'gug', 'gugg', 'gugs',
+'gun', 'gunj', 'gunh', 'gud', 'gul', 'gulg', 'gulm', 'gulb', 'guls', 'gult', 'gulp', 'gulh', 'gum', 'gub', 'gubs', 'gus',
+'guss', 'gung', 'guj', 'guc', 'guk', 'gut', 'gup', 'guh', 'gweo', 'gweog', 'gweogg', 'gweogs', 'gweon', 'gweonj', 'gweonh', 'gweod',
+'gweol', 'gweolg', 'gweolm', 'gweolb', 'gweols', 'gweolt', 'gweolp', 'gweolh', 'gweom', 'gweob', 'gweobs', 'gweos', 'gweoss', 'gweong', 'gweoj', 'gweoc',
+'gweok', 'gweot', 'gweop', 'gweoh', 'gwe', 'gweg', 'gwegg', 'gwegs', 'gwen', 'gwenj', 'gwenh', 'gwed', 'gwel', 'gwelg', 'gwelm', 'gwelb',
+'gwels', 'gwelt', 'gwelp', 'gwelh', 'gwem', 'gweb', 'gwebs', 'gwes', 'gwess', 'gweng', 'gwej', 'gwec', 'gwek', 'gwet', 'gwep', 'gweh',
+'gwi', 'gwig', 'gwigg', 'gwigs', 'gwin', 'gwinj', 'gwinh', 'gwid', 'gwil', 'gwilg', 'gwilm', 'gwilb', 'gwils', 'gwilt', 'gwilp', 'gwilh',
+'gwim', 'gwib', 'gwibs', 'gwis', 'gwiss', 'gwing', 'gwij', 'gwic', 'gwik', 'gwit', 'gwip', 'gwih', 'gyu', 'gyug', 'gyugg', 'gyugs',
+'gyun', 'gyunj', 'gyunh', 'gyud', 'gyul', 'gyulg', 'gyulm', 'gyulb', 'gyuls', 'gyult', 'gyulp', 'gyulh', 'gyum', 'gyub', 'gyubs', 'gyus',
+'gyuss', 'gyung', 'gyuj', 'gyuc', 'gyuk', 'gyut', 'gyup', 'gyuh', 'geu', 'geug', 'geugg', 'geugs', 'geun', 'geunj', 'geunh', 'geud',
 );

@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xa2] = array(
-'Xia ','Yuan ','Zong ','Xu ','Nawa ','Odoshi ','Geng ','Sen ','Ying ','Jin ','Yi ','Zhui ','Ni ','Bang ','Gu ','Pan ','Zhou ','Jian ','Cuo ','Quan ','Shuang ','Yun ','Xia ','Shuai ','Xi ','Rong ','Tao ','Fu ','Yun ','Zhen ','Gao ','Ru ','Hu ','Zai ','Teng ','Xian ','Su ','Zhen ','Zong ','Tao ','Horo ','Cai ','Bi ','Feng ','Cu ','Li ','Suo ','Yin ','Xi ','Zong ','Lei ','Zhuan ','Qian ','Man ','Zhi ','Lu ','Mo ','Piao ','Lian ','Mi ','Xuan ','Zong ','Ji ','Shan ','Sui ','Fan ','Shuai ','Beng ','Yi ','Sao ','Mou ','Zhou ','Qiang ','Hun ','Sem ','Xi ','Jung ','Xiu ','Ran ','Xuan ','Hui ','Qiao ','Zeng ','Zuo ','Zhi ','Shan ','San ','Lin ','Yu ','Fan ','Liao ','Chuo ','Zun ','Jian ','Rao ','Chan ','Rui ','Xiu ','Hui ','Hua ','Zuan ','Xi ','Qiang ','Un ','Da ','Sheng ','Hui ','Xi ','Se ','Jian ','Jiang ','Huan ','Zao ','Cong ','Jie ','Jiao ','Bo ','Chan ','Yi ','Nao ','Sui ','Yi ','Shai ','Xu ','Ji ','Bin ','Qian ','Lan ','Pu ','Xun ','Zuan ','Qi ','Peng ','Li ','Mo ','Lei ','Xie ','Zuan ','Kuang ','You ','Xu ','Lei ','Xian ','Chan ','Kou ','Lu ','Chan ','Ying ','Cai ','Xiang ','Xian ','Zui ','Zuan ','Luo ','Xi ','Dao ','Lan ','Lei ','Lian ','Si ','Jiu ','Yu ','Hong ','Zhou ','Xian ','He ','Yue ','Ji ','Wan ','Kuang ','Ji ','Ren ','Wei ','Yun ','Hong ','Chun ','Pi ','Sha ','Gang ','Na ','Ren ','Zong ','Lun ','Fen ','Zhi ','Wen ','Fang ','Zhu ','Yin ','Niu ','Shu ','Xian ','Gan ','Xie ','Fu ','Lian ','Zu ','Shen ','Xi ','Zhi ','Zhong ','Zhou ','Ban ','Fu ','Zhuo ','Shao ','Yi ','Jing ','Dai ','Bang ','Rong ','Jie ','Ku ','Rao ','Die ','Heng ','Hui ','Gei ','Xuan ','Jiang ','Luo ','Jue ','Jiao ','Tong ','Geng ','Xiao ','Juan ','Xiu ','Xi ','Sui ','Tao ','Ji ','Ti ','Ji ','Xu ','Ling ','[?] ','Xu ','Qi ','Fei ','Chuo ','Zhang ','Gun ','Sheng ','Wei ','Mian ','Shou ','Beng ','Chou ','Tao ','Liu ','Quan ','Zong ','Zhan ','Wan ','Lu ',
+'kax', 'ka', 'kap', 'kuox', 'kuo', 'kuop', 'kot', 'kox', 'ko', 'kop', 'ket', 'kex', 'ke', 'kep', 'kut', 'kux',
+'ku', 'kup', 'kurx', 'kur', 'ggit', 'ggix', 'ggi', 'ggiex', 'ggie', 'ggiep', 'ggat', 'ggax', 'gga', 'ggap', 'gguot', 'gguox',
+'gguo', 'gguop', 'ggot', 'ggox', 'ggo', 'ggop', 'gget', 'ggex', 'gge', 'ggep', 'ggut', 'ggux', 'ggu', 'ggup', 'ggurx', 'ggur',
+'mgiex', 'mgie', 'mgat', 'mgax', 'mga', 'mgap', 'mguox', 'mguo', 'mguop', 'mgot', 'mgox', 'mgo', 'mgop', 'mgex', 'mge', 'mgep',
+'mgut', 'mgux', 'mgu', 'mgup', 'mgurx', 'mgur', 'hxit', 'hxix', 'hxi', 'hxip', 'hxiet', 'hxiex', 'hxie', 'hxiep', 'hxat', 'hxax',
+'hxa', 'hxap', 'hxuot', 'hxuox', 'hxuo', 'hxuop', 'hxot', 'hxox', 'hxo', 'hxop', 'hxex', 'hxe', 'hxep', 'ngiex', 'ngie', 'ngiep',
+'ngat', 'ngax', 'nga', 'ngap', 'nguot', 'nguox', 'nguo', 'ngot', 'ngox', 'ngo', 'ngop', 'ngex', 'nge', 'ngep', 'hit', 'hiex',
+'hie', 'hat', 'hax', 'ha', 'hap', 'huot', 'huox', 'huo', 'huop', 'hot', 'hox', 'ho', 'hop', 'hex', 'he', 'hep',
+'wat', 'wax', 'wa', 'wap', 'wuox', 'wuo', 'wuop', 'wox', 'wo', 'wop', 'wex', 'we', 'wep', 'zit', 'zix', 'zi',
+'zip', 'ziex', 'zie', 'ziep', 'zat', 'zax', 'za', 'zap', 'zuox', 'zuo', 'zuop', 'zot', 'zox', 'zo', 'zop', 'zex',
+'ze', 'zep', 'zut', 'zux', 'zu', 'zup', 'zurx', 'zur', 'zyt', 'zyx', 'zy', 'zyp', 'zyrx', 'zyr', 'cit', 'cix',
+'ci', 'cip', 'ciet', 'ciex', 'cie', 'ciep', 'cat', 'cax', 'ca', 'cap', 'cuox', 'cuo', 'cuop', 'cot', 'cox', 'co',
+'cop', 'cex', 'ce', 'cep', 'cut', 'cux', 'cu', 'cup', 'curx', 'cur', 'cyt', 'cyx', 'cy', 'cyp', 'cyrx', 'cyr',
+'zzit', 'zzix', 'zzi', 'zzip', 'zziet', 'zziex', 'zzie', 'zziep', 'zzat', 'zzax', 'zza', 'zzap', 'zzox', 'zzo', 'zzop', 'zzex',
+'zze', 'zzep', 'zzux', 'zzu', 'zzup', 'zzurx', 'zzur', 'zzyt', 'zzyx', 'zzy', 'zzyp', 'zzyrx', 'zzyr', 'nzit', 'nzix', 'nzi',
+'nzip', 'nziex', 'nzie', 'nziep', 'nzat', 'nzax', 'nza', 'nzap', 'nzuox', 'nzuo', 'nzox', 'nzop', 'nzex', 'nze', 'nzux', 'nzu',
 );

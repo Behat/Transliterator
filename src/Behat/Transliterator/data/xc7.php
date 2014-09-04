@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xc7] = array(
-'Huan ','Quan ','Ze ','Wei ','Wei ','Yu ','Qun ','Rou ','Die ','Huang ','Lian ','Yan ','Qiu ','Qiu ','Jian ','Bi ','E ','Yang ','Fu ','Sai ','Jian ','Xia ','Tuo ','Hu ','Muroaji ','Ruo ','Haraka ','Wen ','Jian ','Hao ','Wu ','Fang ','Sao ','Liu ','Ma ','Shi ','Shi ','Yin ','Z ','Teng ','Ta ','Yao ','Ge ','Rong ','Qian ','Qi ','Wen ','Ruo ','Hatahata ','Lian ','Ao ','Le ','Hui ','Min ','Ji ','Tiao ','Qu ','Jian ','Sao ','Man ','Xi ','Qiu ','Biao ','Ji ','Ji ','Zhu ','Jiang ','Qiu ','Zhuan ','Yong ','Zhang ','Kang ','Xue ','Bie ','Jue ','Qu ','Xiang ','Bo ','Jiao ','Xun ','Su ','Huang ','Zun ','Shan ','Shan ','Fan ','Jue ','Lin ','Xun ','Miao ','Xi ','Eso ','Kyou ','Fen ','Guan ','Hou ','Kuai ','Zei ','Sao ','Zhan ','Gan ','Gui ','Sheng ','Li ','Chang ','Hatahata ','Shiira ','Mutsu ','Ru ','Ji ','Xu ','Huo ','Shiira ','Li ','Lie ','Li ','Mie ','Zhen ','Xiang ','E ','Lu ','Guan ','Li ','Xian ','Yu ','Dao ','Ji ','You ','Tun ','Lu ','Fang ','Ba ','He ','Bo ','Ping ','Nian ','Lu ','You ','Zha ','Fu ','Bo ','Bao ','Hou ','Pi ','Tai ','Gui ','Jie ','Kao ','Wei ','Er ','Tong ','Ze ','Hou ','Kuai ','Ji ','Jiao ','Xian ','Za ','Xiang ','Xun ','Geng ','Li ','Lian ','Jian ','Li ','Shi ','Tiao ','Gun ','Sha ','Wan ','Jun ','Ji ','Yong ','Qing ','Ling ','Qi ','Zou ','Fei ','Kun ','Chang ','Gu ','Ni ','Nian ','Diao ','Jing ','Shen ','Shi ','Zi ','Fen ','Die ','Bi ','Chang ','Shi ','Wen ','Wei ','Sai ','E ','Qiu ','Fu ','Huang ','Quan ','Jiang ','Bian ','Sao ','Ao ','Qi ','Ta ','Yin ','Yao ','Fang ','Jian ','Le ','Biao ','Xue ','Bie ','Man ','Min ','Yong ','Wei ','Xi ','Jue ','Shan ','Lin ','Zun ','Huo ','Gan ','Li ','Zhan ','Guan ','Niao ','Yi ','Fu ','Li ','Jiu ','Bu ','Yan ','Fu ','Diao ','Ji ','Feng ','Nio ','Gan ','Shi ','Feng ','Ming ','Bao ','Yuan ','Zhi ','Hu ','Qin ','Fu ','Fen ','Wen ','Jian ','Shi ','Yu ',
+'wek', 'wet', 'wep', 'weh', 'wi', 'wig', 'wigg', 'wigs', 'win', 'winj', 'winh', 'wid', 'wil', 'wilg', 'wilm', 'wilb',
+'wils', 'wilt', 'wilp', 'wilh', 'wim', 'wib', 'wibs', 'wis', 'wiss', 'wing', 'wij', 'wic', 'wik', 'wit', 'wip', 'wih',
+'yu', 'yug', 'yugg', 'yugs', 'yun', 'yunj', 'yunh', 'yud', 'yul', 'yulg', 'yulm', 'yulb', 'yuls', 'yult', 'yulp', 'yulh',
+'yum', 'yub', 'yubs', 'yus', 'yuss', 'yung', 'yuj', 'yuc', 'yuk', 'yut', 'yup', 'yuh', 'eu', 'eug', 'eugg', 'eugs',
+'eun', 'eunj', 'eunh', 'eud', 'eul', 'eulg', 'eulm', 'eulb', 'euls', 'eult', 'eulp', 'eulh', 'eum', 'eub', 'eubs', 'eus',
+'euss', 'eung', 'euj', 'euc', 'euk', 'eut', 'eup', 'euh', 'yi', 'yig', 'yigg', 'yigs', 'yin', 'yinj', 'yinh', 'yid',
+'yil', 'yilg', 'yilm', 'yilb', 'yils', 'yilt', 'yilp', 'yilh', 'yim', 'yib', 'yibs', 'yis', 'yiss', 'ying', 'yij', 'yic',
+'yik', 'yit', 'yip', 'yih', 'i', 'ig', 'igg', 'igs', 'in', 'inj', 'inh', 'id', 'il', 'ilg', 'ilm', 'ilb',
+'ils', 'ilt', 'ilp', 'ilh', 'im', 'ib', 'ibs', 'is', 'iss', 'ing', 'ij', 'ic', 'ik', 'it', 'ip', 'ih',
+'ja', 'jag', 'jagg', 'jags', 'jan', 'janj', 'janh', 'jad', 'jal', 'jalg', 'jalm', 'jalb', 'jals', 'jalt', 'jalp', 'jalh',
+'jam', 'jab', 'jabs', 'jas', 'jass', 'jang', 'jaj', 'jac', 'jak', 'jat', 'jap', 'jah', 'jae', 'jaeg', 'jaegg', 'jaegs',
+'jaen', 'jaenj', 'jaenh', 'jaed', 'jael', 'jaelg', 'jaelm', 'jaelb', 'jaels', 'jaelt', 'jaelp', 'jaelh', 'jaem', 'jaeb', 'jaebs', 'jaes',
+'jaess', 'jaeng', 'jaej', 'jaec', 'jaek', 'jaet', 'jaep', 'jaeh', 'jya', 'jyag', 'jyagg', 'jyags', 'jyan', 'jyanj', 'jyanh', 'jyad',
+'jyal', 'jyalg', 'jyalm', 'jyalb', 'jyals', 'jyalt', 'jyalp', 'jyalh', 'jyam', 'jyab', 'jyabs', 'jyas', 'jyass', 'jyang', 'jyaj', 'jyac',
+'jyak', 'jyat', 'jyap', 'jyah', 'jyae', 'jyaeg', 'jyaegg', 'jyaegs', 'jyaen', 'jyaenj', 'jyaenh', 'jyaed', 'jyael', 'jyaelg', 'jyaelm', 'jyaelb',
+'jyaels', 'jyaelt', 'jyaelp', 'jyaelh', 'jyaem', 'jyaeb', 'jyaebs', 'jyaes', 'jyaess', 'jyaeng', 'jyaej', 'jyaec', 'jyaek', 'jyaet', 'jyaep', 'jyaeh',
 );
