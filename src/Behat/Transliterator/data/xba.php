@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xba] = array(
-'Er ','Qiong ','Ju ','Jiao ','Guang ','Lu ','Kai ','Quan ','Zhou ','Zai ','Zhi ','She ','Liang ','Yu ','Shao ','You ','Huan ','Yun ','Zhe ','Wan ','Fu ','Qing ','Zhou ','Ni ','Ling ','Zhe ','Zhan ','Liang ','Zi ','Hui ','Wang ','Chuo ','Guo ','Kan ','Yi ','Peng ','Qian ','Gun ','Nian ','Pian ','Guan ','Bei ','Lun ','Pai ','Liang ','Ruan ','Rou ','Ji ','Yang ','Xian ','Chuan ','Cou ','Qun ','Ge ','You ','Hong ','Shu ','Fu ','Zi ','Fu ','Wen ','Ben ','Zhan ','Yu ','Wen ','Tao ','Gu ','Zhen ','Xia ','Yuan ','Lu ','Jiu ','Chao ','Zhuan ','Wei ','Hun ','Sori ','Che ','Jiao ','Zhan ','Pu ','Lao ','Fen ','Fan ','Lin ','Ge ','Se ','Kan ','Huan ','Yi ','Ji ','Dui ','Er ','Yu ','Xian ','Hong ','Lei ','Pei ','Li ','Li ','Lu ','Lin ','Che ','Ya ','Gui ','Xuan ','Di ','Ren ','Zhuan ','E ','Lun ','Ruan ','Hong ','Ku ','Ke ','Lu ','Zhou ','Zhi ','Yi ','Hu ','Zhen ','Li ','Yao ','Qing ','Shi ','Zai ','Zhi ','Jiao ','Zhou ','Quan ','Lu ','Jiao ','Zhe ','Fu ','Liang ','Nian ','Bei ','Hui ','Gun ','Wang ','Liang ','Chuo ','Zi ','Cou ','Fu ','Ji ','Wen ','Shu ','Pei ','Yuan ','Xia ','Zhan ','Lu ','Che ','Lin ','Xin ','Gu ','Ci ','Ci ','Pi ','Zui ','Bian ','La ','La ','Ci ','Xue ','Ban ','Bian ','Bian ','Bian ','[?] ','Bian ','Ban ','Ci ','Bian ','Bian ','Chen ','Ru ','Nong ','Nong ','Zhen ','Chuo ','Chuo ','Suberu ','Reng ','Bian ','Bian ','Sip ','Ip ','Liao ','Da ','Chan ','Gan ','Qian ','Yu ','Yu ','Qi ','Xun ','Yi ','Guo ','Mai ','Qi ','Za ','Wang ','Jia ','Zhun ','Ying ','Ti ','Yun ','Jin ','Hang ','Ya ','Fan ','Wu ','Da ','E ','Huan ','Zhe ','Totemo ','Jin ','Yuan ','Wei ','Lian ','Chi ','Che ','Ni ','Tiao ','Zhi ','Yi ','Jiong ','Jia ','Chen ','Dai ','Er ','Di ','Po ','Wang ','Die ','Ze ','Tao ','Shu ','Tuo ','Kep ','Jing ','Hui ','Tong ','You ','Mi ','Beng ','Ji ','Nai ','Yi ','Jie ','Zhui ','Lie ','Xun ',
+'mya', 'myag', 'myagg', 'myags', 'myan', 'myanj', 'myanh', 'myad', 'myal', 'myalg', 'myalm', 'myalb', 'myals', 'myalt', 'myalp', 'myalh',
+'myam', 'myab', 'myabs', 'myas', 'myass', 'myang', 'myaj', 'myac', 'myak', 'myat', 'myap', 'myah', 'myae', 'myaeg', 'myaegg', 'myaegs',
+'myaen', 'myaenj', 'myaenh', 'myaed', 'myael', 'myaelg', 'myaelm', 'myaelb', 'myaels', 'myaelt', 'myaelp', 'myaelh', 'myaem', 'myaeb', 'myaebs', 'myaes',
+'myaess', 'myaeng', 'myaej', 'myaec', 'myaek', 'myaet', 'myaep', 'myaeh', 'meo', 'meog', 'meogg', 'meogs', 'meon', 'meonj', 'meonh', 'meod',
+'meol', 'meolg', 'meolm', 'meolb', 'meols', 'meolt', 'meolp', 'meolh', 'meom', 'meob', 'meobs', 'meos', 'meoss', 'meong', 'meoj', 'meoc',
+'meok', 'meot', 'meop', 'meoh', 'me', 'meg', 'megg', 'megs', 'men', 'menj', 'menh', 'med', 'mel', 'melg', 'melm', 'melb',
+'mels', 'melt', 'melp', 'melh', 'mem', 'meb', 'mebs', 'mes', 'mess', 'meng', 'mej', 'mec', 'mek', 'met', 'mep', 'meh',
+'myeo', 'myeog', 'myeogg', 'myeogs', 'myeon', 'myeonj', 'myeonh', 'myeod', 'myeol', 'myeolg', 'myeolm', 'myeolb', 'myeols', 'myeolt', 'myeolp', 'myeolh',
+'myeom', 'myeob', 'myeobs', 'myeos', 'myeoss', 'myeong', 'myeoj', 'myeoc', 'myeok', 'myeot', 'myeop', 'myeoh', 'mye', 'myeg', 'myegg', 'myegs',
+'myen', 'myenj', 'myenh', 'myed', 'myel', 'myelg', 'myelm', 'myelb', 'myels', 'myelt', 'myelp', 'myelh', 'myem', 'myeb', 'myebs', 'myes',
+'myess', 'myeng', 'myej', 'myec', 'myek', 'myet', 'myep', 'myeh', 'mo', 'mog', 'mogg', 'mogs', 'mon', 'monj', 'monh', 'mod',
+'mol', 'molg', 'molm', 'molb', 'mols', 'molt', 'molp', 'molh', 'mom', 'mob', 'mobs', 'mos', 'moss', 'mong', 'moj', 'moc',
+'mok', 'mot', 'mop', 'moh', 'mwa', 'mwag', 'mwagg', 'mwags', 'mwan', 'mwanj', 'mwanh', 'mwad', 'mwal', 'mwalg', 'mwalm', 'mwalb',
+'mwals', 'mwalt', 'mwalp', 'mwalh', 'mwam', 'mwab', 'mwabs', 'mwas', 'mwass', 'mwang', 'mwaj', 'mwac', 'mwak', 'mwat', 'mwap', 'mwah',
+'mwae', 'mwaeg', 'mwaegg', 'mwaegs', 'mwaen', 'mwaenj', 'mwaenh', 'mwaed', 'mwael', 'mwaelg', 'mwaelm', 'mwaelb', 'mwaels', 'mwaelt', 'mwaelp', 'mwaelh',
+'mwaem', 'mwaeb', 'mwaebs', 'mwaes', 'mwaess', 'mwaeng', 'mwaej', 'mwaec', 'mwaek', 'mwaet', 'mwaep', 'mwaeh', 'moe', 'moeg', 'moegg', 'moegs',
 );

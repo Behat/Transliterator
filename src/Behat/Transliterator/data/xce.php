@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xce] = array(
-'nzup','nzurx','nzur','nzyt','nzyx','nzy','nzyp','nzyrx','nzyr','sit','six','si','sip','siex','sie','siep','sat','sax','sa','sap','suox','suo','suop','sot','sox','so','sop','sex','se','sep','sut','sux','su','sup','surx','sur','syt','syx','sy','syp','syrx','syr','ssit','ssix','ssi','ssip','ssiex','ssie','ssiep','ssat','ssax','ssa','ssap','ssot','ssox','sso','ssop','ssex','sse','ssep','ssut','ssux','ssu','ssup','ssyt','ssyx','ssy','ssyp','ssyrx','ssyr','zhat','zhax','zha','zhap','zhuox','zhuo','zhuop','zhot','zhox','zho','zhop','zhet','zhex','zhe','zhep','zhut','zhux','zhu','zhup','zhurx','zhur','zhyt','zhyx','zhy','zhyp','zhyrx','zhyr','chat','chax','cha','chap','chuot','chuox','chuo','chuop','chot','chox','cho','chop','chet','chex','che','chep','chux','chu','chup','churx','chur','chyt','chyx','chy','chyp','chyrx','chyr','rrax','rra','rruox','rruo','rrot','rrox','rro','rrop','rret','rrex','rre','rrep','rrut','rrux','rru','rrup','rrurx','rrur','rryt','rryx','rry','rryp','rryrx','rryr','nrat','nrax','nra','nrap','nrox','nro','nrop','nret','nrex','nre','nrep','nrut','nrux','nru','nrup','nrurx','nrur','nryt','nryx','nry','nryp','nryrx','nryr','shat','shax','sha','shap','shuox','shuo','shuop','shot','shox','sho','shop','shet','shex','she','shep','shut','shux','shu','shup','shurx','shur','shyt','shyx','shy','shyp','shyrx','shyr','rat','rax','ra','rap','ruox','ruo','ruop','rot','rox','ro','rop','rex','re','rep','rut','rux','ru','rup','rurx','rur','ryt','ryx','ry','ryp','ryrx','ryr','jit','jix','ji','jip','jiet','jiex','jie','jiep','juot','juox','juo','juop','jot','jox','jo','jop','jut','jux','ju','jup','jurx','jur','jyt','jyx','jy','jyp','jyrx','jyr','qit','qix','qi','qip',
+'cwik', 'cwit', 'cwip', 'cwih', 'cyu', 'cyug', 'cyugg', 'cyugs', 'cyun', 'cyunj', 'cyunh', 'cyud', 'cyul', 'cyulg', 'cyulm', 'cyulb',
+'cyuls', 'cyult', 'cyulp', 'cyulh', 'cyum', 'cyub', 'cyubs', 'cyus', 'cyuss', 'cyung', 'cyuj', 'cyuc', 'cyuk', 'cyut', 'cyup', 'cyuh',
+'ceu', 'ceug', 'ceugg', 'ceugs', 'ceun', 'ceunj', 'ceunh', 'ceud', 'ceul', 'ceulg', 'ceulm', 'ceulb', 'ceuls', 'ceult', 'ceulp', 'ceulh',
+'ceum', 'ceub', 'ceubs', 'ceus', 'ceuss', 'ceung', 'ceuj', 'ceuc', 'ceuk', 'ceut', 'ceup', 'ceuh', 'cyi', 'cyig', 'cyigg', 'cyigs',
+'cyin', 'cyinj', 'cyinh', 'cyid', 'cyil', 'cyilg', 'cyilm', 'cyilb', 'cyils', 'cyilt', 'cyilp', 'cyilh', 'cyim', 'cyib', 'cyibs', 'cyis',
+'cyiss', 'cying', 'cyij', 'cyic', 'cyik', 'cyit', 'cyip', 'cyih', 'ci', 'cig', 'cigg', 'cigs', 'cin', 'cinj', 'cinh', 'cid',
+'cil', 'cilg', 'cilm', 'cilb', 'cils', 'cilt', 'cilp', 'cilh', 'cim', 'cib', 'cibs', 'cis', 'ciss', 'cing', 'cij', 'cic',
+'cik', 'cit', 'cip', 'cih', 'ka', 'kag', 'kagg', 'kags', 'kan', 'kanj', 'kanh', 'kad', 'kal', 'kalg', 'kalm', 'kalb',
+'kals', 'kalt', 'kalp', 'kalh', 'kam', 'kab', 'kabs', 'kas', 'kass', 'kang', 'kaj', 'kac', 'kak', 'kat', 'kap', 'kah',
+'kae', 'kaeg', 'kaegg', 'kaegs', 'kaen', 'kaenj', 'kaenh', 'kaed', 'kael', 'kaelg', 'kaelm', 'kaelb', 'kaels', 'kaelt', 'kaelp', 'kaelh',
+'kaem', 'kaeb', 'kaebs', 'kaes', 'kaess', 'kaeng', 'kaej', 'kaec', 'kaek', 'kaet', 'kaep', 'kaeh', 'kya', 'kyag', 'kyagg', 'kyags',
+'kyan', 'kyanj', 'kyanh', 'kyad', 'kyal', 'kyalg', 'kyalm', 'kyalb', 'kyals', 'kyalt', 'kyalp', 'kyalh', 'kyam', 'kyab', 'kyabs', 'kyas',
+'kyass', 'kyang', 'kyaj', 'kyac', 'kyak', 'kyat', 'kyap', 'kyah', 'kyae', 'kyaeg', 'kyaegg', 'kyaegs', 'kyaen', 'kyaenj', 'kyaenh', 'kyaed',
+'kyael', 'kyaelg', 'kyaelm', 'kyaelb', 'kyaels', 'kyaelt', 'kyaelp', 'kyaelh', 'kyaem', 'kyaeb', 'kyaebs', 'kyaes', 'kyaess', 'kyaeng', 'kyaej', 'kyaec',
+'kyaek', 'kyaet', 'kyaep', 'kyaeh', 'keo', 'keog', 'keogg', 'keogs', 'keon', 'keonj', 'keonh', 'keod', 'keol', 'keolg', 'keolm', 'keolb',
+'keols', 'keolt', 'keolp', 'keolh', 'keom', 'keob', 'keobs', 'keos', 'keoss', 'keong', 'keoj', 'keoc', 'keok', 'keot', 'keop', 'keoh',
 );

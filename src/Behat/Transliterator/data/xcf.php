@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xcf] = array(
-'qiet','qiex','qie','qiep','quot','quox','quo','quop','qot','qox','qo','qop','qut','qux','qu','qup','qurx','qur','qyt','qyx','qy','qyp','qyrx','qyr','jjit','jjix','jji','jjip','jjiet','jjiex','jjie','jjiep','jjuox','jjuo','jjuop','jjot','jjox','jjo','jjop','jjut','jjux','jju','jjup','jjurx','jjur','jjyt','jjyx','jjy','jjyp','njit','njix','nji','njip','njiet','njiex','njie','njiep','njuox','njuo','njot','njox','njo','njop','njux','nju','njup','njurx','njur','njyt','njyx','njy','njyp','njyrx','njyr','nyit','nyix','nyi','nyip','nyiet','nyiex','nyie','nyiep','nyuox','nyuo','nyuop','nyot','nyox','nyo','nyop','nyut','nyux','nyu','nyup','xit','xix','xi','xip','xiet','xiex','xie','xiep','xuox','xuo','xot','xox','xo','xop','xyt','xyx','xy','xyp','xyrx','xyr','yit','yix','yi','yip','yiet','yiex','yie','yiep','yuot','yuox','yuo','yuop','yot','yox','yo','yop','yut','yux','yu','yup','yurx','yur','yyt','yyx','yy','yyp','yyrx','yyr','[?]','[?]','[?]','Qot','Li','Kit','Nyip','Cyp','Ssi','Ggop','Gep','Mi','Hxit','Lyr','Bbut','Mop','Yo','Put','Hxuo','Tat','Ga','[?]','[?]','Ddur','Bur','Gguo','Nyop','Tu','Op','Jjut','Zot','Pyt','Hmo','Yit','Vur','Shy','Vep','Za','Jo','[?]','Jjy','Got','Jjie','Wo','Du','Shur','Lie','Cy','Cuop','Cip','Hxop','Shat','[?]','Shop','Che','Zziet','[?]','Ke','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]','[?]',
+'ke', 'keg', 'kegg', 'kegs', 'ken', 'kenj', 'kenh', 'ked', 'kel', 'kelg', 'kelm', 'kelb', 'kels', 'kelt', 'kelp', 'kelh',
+'kem', 'keb', 'kebs', 'kes', 'kess', 'keng', 'kej', 'kec', 'kek', 'ket', 'kep', 'keh', 'kyeo', 'kyeog', 'kyeogg', 'kyeogs',
+'kyeon', 'kyeonj', 'kyeonh', 'kyeod', 'kyeol', 'kyeolg', 'kyeolm', 'kyeolb', 'kyeols', 'kyeolt', 'kyeolp', 'kyeolh', 'kyeom', 'kyeob', 'kyeobs', 'kyeos',
+'kyeoss', 'kyeong', 'kyeoj', 'kyeoc', 'kyeok', 'kyeot', 'kyeop', 'kyeoh', 'kye', 'kyeg', 'kyegg', 'kyegs', 'kyen', 'kyenj', 'kyenh', 'kyed',
+'kyel', 'kyelg', 'kyelm', 'kyelb', 'kyels', 'kyelt', 'kyelp', 'kyelh', 'kyem', 'kyeb', 'kyebs', 'kyes', 'kyess', 'kyeng', 'kyej', 'kyec',
+'kyek', 'kyet', 'kyep', 'kyeh', 'ko', 'kog', 'kogg', 'kogs', 'kon', 'konj', 'konh', 'kod', 'kol', 'kolg', 'kolm', 'kolb',
+'kols', 'kolt', 'kolp', 'kolh', 'kom', 'kob', 'kobs', 'kos', 'koss', 'kong', 'koj', 'koc', 'kok', 'kot', 'kop', 'koh',
+'kwa', 'kwag', 'kwagg', 'kwags', 'kwan', 'kwanj', 'kwanh', 'kwad', 'kwal', 'kwalg', 'kwalm', 'kwalb', 'kwals', 'kwalt', 'kwalp', 'kwalh',
+'kwam', 'kwab', 'kwabs', 'kwas', 'kwass', 'kwang', 'kwaj', 'kwac', 'kwak', 'kwat', 'kwap', 'kwah', 'kwae', 'kwaeg', 'kwaegg', 'kwaegs',
+'kwaen', 'kwaenj', 'kwaenh', 'kwaed', 'kwael', 'kwaelg', 'kwaelm', 'kwaelb', 'kwaels', 'kwaelt', 'kwaelp', 'kwaelh', 'kwaem', 'kwaeb', 'kwaebs', 'kwaes',
+'kwaess', 'kwaeng', 'kwaej', 'kwaec', 'kwaek', 'kwaet', 'kwaep', 'kwaeh', 'koe', 'koeg', 'koegg', 'koegs', 'koen', 'koenj', 'koenh', 'koed',
+'koel', 'koelg', 'koelm', 'koelb', 'koels', 'koelt', 'koelp', 'koelh', 'koem', 'koeb', 'koebs', 'koes', 'koess', 'koeng', 'koej', 'koec',
+'koek', 'koet', 'koep', 'koeh', 'kyo', 'kyog', 'kyogg', 'kyogs', 'kyon', 'kyonj', 'kyonh', 'kyod', 'kyol', 'kyolg', 'kyolm', 'kyolb',
+'kyols', 'kyolt', 'kyolp', 'kyolh', 'kyom', 'kyob', 'kyobs', 'kyos', 'kyoss', 'kyong', 'kyoj', 'kyoc', 'kyok', 'kyot', 'kyop', 'kyoh',
+'ku', 'kug', 'kugg', 'kugs', 'kun', 'kunj', 'kunh', 'kud', 'kul', 'kulg', 'kulm', 'kulb', 'kuls', 'kult', 'kulp', 'kulh',
+'kum', 'kub', 'kubs', 'kus', 'kuss', 'kung', 'kuj', 'kuc', 'kuk', 'kut', 'kup', 'kuh', 'kweo', 'kweog', 'kweogg', 'kweogs',
 );

@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xbd] = array(
-'Ba ','Fang ','Chen ','Xing ','Tou ','Yue ','Yan ','Fu ','Pi ','Na ','Xin ','E ','Jue ','Dun ','Gou ','Yin ','Qian ','Ban ','Ji ','Ren ','Chao ','Niu ','Fen ','Yun ','Ji ','Qin ','Pi ','Guo ','Hong ','Yin ','Jun ','Shi ','Yi ','Zhong ','Nie ','Gai ','Ri ','Huo ','Tai ','Kang ','Habaki ','Irori ','Ngaak ','[?] ','Duo ','Zi ','Ni ','Tu ','Shi ','Min ','Gu ','E ','Ling ','Bing ','Yi ','Gu ','Ba ','Pi ','Yu ','Si ','Zuo ','Bu ','You ','Dian ','Jia ','Zhen ','Shi ','Shi ','Tie ','Ju ','Zhan ','Shi ','She ','Xuan ','Zhao ','Bao ','He ','Bi ','Sheng ','Chu ','Shi ','Bo ','Zhu ','Chi ','Za ','Po ','Tong ','Qian ','Fu ','Zhai ','Liu ','Qian ','Fu ','Li ','Yue ','Pi ','Yang ','Ban ','Bo ','Jie ','Gou ','Shu ','Zheng ','Mu ','Ni ','Nie ','Di ','Jia ','Mu ','Dan ','Shen ','Yi ','Si ','Kuang ','Ka ','Bei ','Jian ','Tong ','Xing ','Hong ','Jiao ','Chi ','Er ','Ge ','Bing ','Shi ','Mou ','Jia ','Yin ','Jun ','Zhou ','Chong ','Shang ','Tong ','Mo ','Lei ','Ji ','Yu ','Xu ','Ren ','Zun ','Zhi ','Qiong ','Shan ','Chi ','Xian ','Xing ','Quan ','Pi ','Tie ','Zhu ','Hou ','Ming ','Kua ','Yao ','Xian ','Xian ','Xiu ','Jun ','Cha ','Lao ','Ji ','Pi ','Ru ','Mi ','Yi ','Yin ','Guang ','An ','Diou ','You ','Se ','Kao ','Qian ','Luan ','Kasugai ','Ai ','Diao ','Han ','Rui ','Shi ','Keng ','Qiu ','Xiao ','Zhe ','Xiu ','Zang ','Ti ','Cuo ','Gua ','Gong ','Zhong ','Dou ','Lu ','Mei ','Lang ','Wan ','Xin ','Yun ','Bei ','Wu ','Su ','Yu ','Chan ','Ting ','Bo ','Han ','Jia ','Hong ','Cuan ','Feng ','Chan ','Wan ','Zhi ','Si ','Xuan ','Wu ','Wu ','Tiao ','Gong ','Zhuo ','Lue ','Xing ','Qian ','Shen ','Han ','Lue ','Xie ','Chu ','Zheng ','Ju ','Xian ','Tie ','Mang ','Pu ','Li ','Pan ','Rui ','Cheng ','Gao ','Li ','Te ','Pyeng ','Zhu ','[?] ','Tu ','Liu ','Zui ','Ju ','Chang ','Yuan ','Jian ','Gang ','Diao ','Tao ','Chang ',
+'bols', 'bolt', 'bolp', 'bolh', 'bom', 'bob', 'bobs', 'bos', 'boss', 'bong', 'boj', 'boc', 'bok', 'bot', 'bop', 'boh',
+'bwa', 'bwag', 'bwagg', 'bwags', 'bwan', 'bwanj', 'bwanh', 'bwad', 'bwal', 'bwalg', 'bwalm', 'bwalb', 'bwals', 'bwalt', 'bwalp', 'bwalh',
+'bwam', 'bwab', 'bwabs', 'bwas', 'bwass', 'bwang', 'bwaj', 'bwac', 'bwak', 'bwat', 'bwap', 'bwah', 'bwae', 'bwaeg', 'bwaegg', 'bwaegs',
+'bwaen', 'bwaenj', 'bwaenh', 'bwaed', 'bwael', 'bwaelg', 'bwaelm', 'bwaelb', 'bwaels', 'bwaelt', 'bwaelp', 'bwaelh', 'bwaem', 'bwaeb', 'bwaebs', 'bwaes',
+'bwaess', 'bwaeng', 'bwaej', 'bwaec', 'bwaek', 'bwaet', 'bwaep', 'bwaeh', 'boe', 'boeg', 'boegg', 'boegs', 'boen', 'boenj', 'boenh', 'boed',
+'boel', 'boelg', 'boelm', 'boelb', 'boels', 'boelt', 'boelp', 'boelh', 'boem', 'boeb', 'boebs', 'boes', 'boess', 'boeng', 'boej', 'boec',
+'boek', 'boet', 'boep', 'boeh', 'byo', 'byog', 'byogg', 'byogs', 'byon', 'byonj', 'byonh', 'byod', 'byol', 'byolg', 'byolm', 'byolb',
+'byols', 'byolt', 'byolp', 'byolh', 'byom', 'byob', 'byobs', 'byos', 'byoss', 'byong', 'byoj', 'byoc', 'byok', 'byot', 'byop', 'byoh',
+'bu', 'bug', 'bugg', 'bugs', 'bun', 'bunj', 'bunh', 'bud', 'bul', 'bulg', 'bulm', 'bulb', 'buls', 'bult', 'bulp', 'bulh',
+'bum', 'bub', 'bubs', 'bus', 'buss', 'bung', 'buj', 'buc', 'buk', 'but', 'bup', 'buh', 'bweo', 'bweog', 'bweogg', 'bweogs',
+'bweon', 'bweonj', 'bweonh', 'bweod', 'bweol', 'bweolg', 'bweolm', 'bweolb', 'bweols', 'bweolt', 'bweolp', 'bweolh', 'bweom', 'bweob', 'bweobs', 'bweos',
+'bweoss', 'bweong', 'bweoj', 'bweoc', 'bweok', 'bweot', 'bweop', 'bweoh', 'bwe', 'bweg', 'bwegg', 'bwegs', 'bwen', 'bwenj', 'bwenh', 'bwed',
+'bwel', 'bwelg', 'bwelm', 'bwelb', 'bwels', 'bwelt', 'bwelp', 'bwelh', 'bwem', 'bweb', 'bwebs', 'bwes', 'bwess', 'bweng', 'bwej', 'bwec',
+'bwek', 'bwet', 'bwep', 'bweh', 'bwi', 'bwig', 'bwigg', 'bwigs', 'bwin', 'bwinj', 'bwinh', 'bwid', 'bwil', 'bwilg', 'bwilm', 'bwilb',
+'bwils', 'bwilt', 'bwilp', 'bwilh', 'bwim', 'bwib', 'bwibs', 'bwis', 'bwiss', 'bwing', 'bwij', 'bwic', 'bwik', 'bwit', 'bwip', 'bwih',
+'byu', 'byug', 'byugg', 'byugs', 'byun', 'byunj', 'byunh', 'byud', 'byul', 'byulg', 'byulm', 'byulb', 'byuls', 'byult', 'byulp', 'byulh',
 );

@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xff] = array(
-'dae','daeg','daegg','daegs','daen','daenj','daenh','daed','dael','daelg','daelm','daelb','daels','daelt','daelp','daelh','daem','daeb','daebs','daes','daess','daeng','daej','daec','daek','daet','daep','daeh','dya','dyag','dyagg','dyags','dyan','dyanj','dyanh','dyad','dyal','dyalg','dyalm','dyalb','dyals','dyalt','dyalp','dyalh','dyam','dyab','dyabs','dyas','dyass','dyang','dyaj','dyac','dyak','dyat','dyap','dyah','dyae','dyaeg','dyaegg','dyaegs','dyaen','dyaenj','dyaenh','dyaed','dyael','dyaelg','dyaelm','dyaelb','dyaels','dyaelt','dyaelp','dyaelh','dyaem','dyaeb','dyaebs','dyaes','dyaess','dyaeng','dyaej','dyaec','dyaek','dyaet','dyaep','dyaeh','deo','deog','deogg','deogs','deon','deonj','deonh','deod','deol','deolg','deolm','deolb','deols','deolt','deolp','deolh','deom','deob','deobs','deos','deoss','deong','deoj','deoc','deok','deot','deop','deoh','de','deg','degg','degs','den','denj','denh','ded','del','delg','delm','delb','dels','delt','delp','delh','dem','deb','debs','des','dess','deng','dej','dec','dek','det','dep','deh','dyeo','dyeog','dyeogg','dyeogs','dyeon','dyeonj','dyeonh','dyeod','dyeol','dyeolg','dyeolm','dyeolb','dyeols','dyeolt','dyeolp','dyeolh','dyeom','dyeob','dyeobs','dyeos','dyeoss','dyeong','dyeoj','dyeoc','dyeok','dyeot','dyeop','dyeoh','dye','dyeg','dyegg','dyegs','dyen','dyenj','dyenh','dyed','dyel','dyelg','dyelm','dyelb','dyels','dyelt','dyelp','dyelh','dyem','dyeb','dyebs','dyes','dyess','dyeng','dyej','dyec','dyek','dyet','dyep','dyeh','do','dog','dogg','dogs','don','donj','donh','dod','dol','dolg','dolm','dolb','dols','dolt','dolp','dolh','dom','dob','dobs','dos','doss','dong','doj','doc','dok','dot','dop','doh','dwa','dwag','dwagg','dwags','dwan','dwanj','dwanh','dwad','dwal','dwalg','dwalm','dwalb','dwals','dwalt','dwalp','dwalh','dwam','dwab','dwabs','dwas','dwass','dwang','dwaj','dwac','dwak','dwat','dwap','dwah','dwae','dwaeg','dwaegg','dwaegs',
+'[?]', '!', '"', '#', '$', '%', '&', '\'', '(', ')', '*', '+', ',', '-', '.', '/',
+'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ':', ';', '<', '=', '>', '?',
+'@', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O',
+'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '[', '\\', ']', '^', '_',
+'`', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o',
+'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '{', '|', '}', '~', '[?]',
+'[?]', '.', '[', ']', ',', '*', 'wo', 'a', 'i', 'u', 'e', 'o', 'ya', 'yu', 'yo', 'tu',
+'+', 'a', 'i', 'u', 'e', 'o', 'ka', 'ki', 'ku', 'ke', 'ko', 'sa', 'si', 'su', 'se', 'so',
+'ta', 'ti', 'tu', 'te', 'to', 'na', 'ni', 'nu', 'ne', 'no', 'ha', 'hi', 'hu', 'he', 'ho', 'ma',
+'mi', 'mu', 'me', 'mo', 'ya', 'yu', 'yo', 'ra', 'ri', 'ru', 're', 'ro', 'wa', 'n', ':', ';',
+'', 'g', 'gg', 'gs', 'n', 'nj', 'nh', 'd', 'dd', 'r', 'lg', 'lm', 'lb', 'ls', 'lt', 'lp',
+'rh', 'm', 'b', 'bb', 'bs', 's', 'ss', '', 'j', 'jj', 'c', 'k', 't', 'p', 'h', '[?]',
+'[?]', '[?]', 'a', 'ae', 'ya', 'yae', 'eo', 'e', '[?]', '[?]', 'yeo', 'ye', 'o', 'wa', 'wae', 'oe',
+'[?]', '[?]', 'yo', 'u', 'weo', 'we', 'wi', 'yu', '[?]', '[?]', 'eu', 'yi', 'i', '[?]', '[?]', '[?]',
+'/C', 'PS', '!', '-', '|', 'Y=', 'W=', '[?]', '|', '-', '|', '-', '|', '#', 'O', '[?]',
+'[?]', '[?]', '[?]', '[?]', '[?]', '[?]', '[?]', '[?]', '[?]', '{', '|', '}', '', '', '', '',
 );

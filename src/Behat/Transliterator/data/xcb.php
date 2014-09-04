@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xcb] = array(
-'it','ix','i','ip','iet','iex','ie','iep','at','ax','a','ap','uox','uo','uop','ot','ox','o','op','ex','e','wu','bit','bix','bi','bip','biet','biex','bie','biep','bat','bax','ba','bap','buox','buo','buop','bot','box','bo','bop','bex','be','bep','but','bux','bu','bup','burx','bur','byt','byx','by','byp','byrx','byr','pit','pix','pi','pip','piex','pie','piep','pat','pax','pa','pap','puox','puo','puop','pot','pox','po','pop','put','pux','pu','pup','purx','pur','pyt','pyx','py','pyp','pyrx','pyr','bbit','bbix','bbi','bbip','bbiet','bbiex','bbie','bbiep','bbat','bbax','bba','bbap','bbuox','bbuo','bbuop','bbot','bbox','bbo','bbop','bbex','bbe','bbep','bbut','bbux','bbu','bbup','bburx','bbur','bbyt','bbyx','bby','bbyp','nbit','nbix','nbi','nbip','nbiex','nbie','nbiep','nbat','nbax','nba','nbap','nbot','nbox','nbo','nbop','nbut','nbux','nbu','nbup','nburx','nbur','nbyt','nbyx','nby','nbyp','nbyrx','nbyr','hmit','hmix','hmi','hmip','hmiex','hmie','hmiep','hmat','hmax','hma','hmap','hmuox','hmuo','hmuop','hmot','hmox','hmo','hmop','hmut','hmux','hmu','hmup','hmurx','hmur','hmyx','hmy','hmyp','hmyrx','hmyr','mit','mix','mi','mip','miex','mie','miep','mat','max','ma','map','muot','muox','muo','muop','mot','mox','mo','mop','mex','me','mut','mux','mu','mup','murx','mur','myt','myx','my','myp','fit','fix','fi','fip','fat','fax','fa','fap','fox','fo','fop','fut','fux','fu','fup','furx','fur','fyt','fyx','fy','fyp','vit','vix','vi','vip','viet','viex','vie','viep','vat','vax','va','vap','vot','vox','vo','vop','vex','vep','vut','vux','vu','vup','vurx','vur','vyt','vyx','vy','vyp','vyrx','vyr',
+'jjwaels', 'jjwaelt', 'jjwaelp', 'jjwaelh', 'jjwaem', 'jjwaeb', 'jjwaebs', 'jjwaes', 'jjwaess', 'jjwaeng', 'jjwaej', 'jjwaec', 'jjwaek', 'jjwaet', 'jjwaep', 'jjwaeh',
+'jjoe', 'jjoeg', 'jjoegg', 'jjoegs', 'jjoen', 'jjoenj', 'jjoenh', 'jjoed', 'jjoel', 'jjoelg', 'jjoelm', 'jjoelb', 'jjoels', 'jjoelt', 'jjoelp', 'jjoelh',
+'jjoem', 'jjoeb', 'jjoebs', 'jjoes', 'jjoess', 'jjoeng', 'jjoej', 'jjoec', 'jjoek', 'jjoet', 'jjoep', 'jjoeh', 'jjyo', 'jjyog', 'jjyogg', 'jjyogs',
+'jjyon', 'jjyonj', 'jjyonh', 'jjyod', 'jjyol', 'jjyolg', 'jjyolm', 'jjyolb', 'jjyols', 'jjyolt', 'jjyolp', 'jjyolh', 'jjyom', 'jjyob', 'jjyobs', 'jjyos',
+'jjyoss', 'jjyong', 'jjyoj', 'jjyoc', 'jjyok', 'jjyot', 'jjyop', 'jjyoh', 'jju', 'jjug', 'jjugg', 'jjugs', 'jjun', 'jjunj', 'jjunh', 'jjud',
+'jjul', 'jjulg', 'jjulm', 'jjulb', 'jjuls', 'jjult', 'jjulp', 'jjulh', 'jjum', 'jjub', 'jjubs', 'jjus', 'jjuss', 'jjung', 'jjuj', 'jjuc',
+'jjuk', 'jjut', 'jjup', 'jjuh', 'jjweo', 'jjweog', 'jjweogg', 'jjweogs', 'jjweon', 'jjweonj', 'jjweonh', 'jjweod', 'jjweol', 'jjweolg', 'jjweolm', 'jjweolb',
+'jjweols', 'jjweolt', 'jjweolp', 'jjweolh', 'jjweom', 'jjweob', 'jjweobs', 'jjweos', 'jjweoss', 'jjweong', 'jjweoj', 'jjweoc', 'jjweok', 'jjweot', 'jjweop', 'jjweoh',
+'jjwe', 'jjweg', 'jjwegg', 'jjwegs', 'jjwen', 'jjwenj', 'jjwenh', 'jjwed', 'jjwel', 'jjwelg', 'jjwelm', 'jjwelb', 'jjwels', 'jjwelt', 'jjwelp', 'jjwelh',
+'jjwem', 'jjweb', 'jjwebs', 'jjwes', 'jjwess', 'jjweng', 'jjwej', 'jjwec', 'jjwek', 'jjwet', 'jjwep', 'jjweh', 'jjwi', 'jjwig', 'jjwigg', 'jjwigs',
+'jjwin', 'jjwinj', 'jjwinh', 'jjwid', 'jjwil', 'jjwilg', 'jjwilm', 'jjwilb', 'jjwils', 'jjwilt', 'jjwilp', 'jjwilh', 'jjwim', 'jjwib', 'jjwibs', 'jjwis',
+'jjwiss', 'jjwing', 'jjwij', 'jjwic', 'jjwik', 'jjwit', 'jjwip', 'jjwih', 'jjyu', 'jjyug', 'jjyugg', 'jjyugs', 'jjyun', 'jjyunj', 'jjyunh', 'jjyud',
+'jjyul', 'jjyulg', 'jjyulm', 'jjyulb', 'jjyuls', 'jjyult', 'jjyulp', 'jjyulh', 'jjyum', 'jjyub', 'jjyubs', 'jjyus', 'jjyuss', 'jjyung', 'jjyuj', 'jjyuc',
+'jjyuk', 'jjyut', 'jjyup', 'jjyuh', 'jjeu', 'jjeug', 'jjeugg', 'jjeugs', 'jjeun', 'jjeunj', 'jjeunh', 'jjeud', 'jjeul', 'jjeulg', 'jjeulm', 'jjeulb',
+'jjeuls', 'jjeult', 'jjeulp', 'jjeulh', 'jjeum', 'jjeub', 'jjeubs', 'jjeus', 'jjeuss', 'jjeung', 'jjeuj', 'jjeuc', 'jjeuk', 'jjeut', 'jjeup', 'jjeuh',
+'jjyi', 'jjyig', 'jjyigg', 'jjyigs', 'jjyin', 'jjyinj', 'jjyinh', 'jjyid', 'jjyil', 'jjyilg', 'jjyilm', 'jjyilb', 'jjyils', 'jjyilt', 'jjyilp', 'jjyilh',
 );

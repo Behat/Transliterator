@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xb3] = array(
-'Ci ','Xiang ','She ','Luo ','Qin ','Ying ','Chai ','Li ','Ze ','Xuan ','Lian ','Zhu ','Ze ','Xie ','Mang ','Xie ','Qi ','Rong ','Jian ','Meng ','Hao ','Ruan ','Huo ','Zhuo ','Jie ','Bin ','He ','Mie ','Fan ','Lei ','Jie ','La ','Mi ','Li ','Chun ','Li ','Qiu ','Nie ','Lu ','Du ','Xiao ','Zhu ','Long ','Li ','Long ','Feng ','Ye ','Beng ','Shang ','Gu ','Juan ','Ying ','[?] ','Xi ','Can ','Qu ','Quan ','Du ','Can ','Man ','Jue ','Jie ','Zhu ','Zha ','Xie ','Huang ','Niu ','Pei ','Nu ','Xin ','Zhong ','Mo ','Er ','Ke ','Mie ','Xi ','Xing ','Yan ','Kan ','Yuan ','[?] ','Ling ','Xuan ','Shu ','Xian ','Tong ','Long ','Jie ','Xian ','Ya ','Hu ','Wei ','Dao ','Chong ','Wei ','Dao ','Zhun ','Heng ','Qu ','Yi ','Yi ','Bu ','Gan ','Yu ','Biao ','Cha ','Yi ','Shan ','Chen ','Fu ','Gun ','Fen ','Shuai ','Jie ','Na ','Zhong ','Dan ','Ri ','Zhong ','Zhong ','Xie ','Qi ','Xie ','Ran ','Zhi ','Ren ','Qin ','Jin ','Jun ','Yuan ','Mei ','Chai ','Ao ','Niao ','Hui ','Ran ','Jia ','Tuo ','Ling ','Dai ','Bao ','Pao ','Yao ','Zuo ','Bi ','Shao ','Tan ','Ju ','He ','Shu ','Xiu ','Zhen ','Yi ','Pa ','Bo ','Di ','Wa ','Fu ','Gun ','Zhi ','Zhi ','Ran ','Pan ','Yi ','Mao ','Tuo ','Na ','Kou ','Xian ','Chan ','Qu ','Bei ','Gun ','Xi ','Ne ','Bo ','Horo ','Fu ','Yi ','Chi ','Ku ','Ren ','Jiang ','Jia ','Cun ','Mo ','Jie ','Er ','Luo ','Ru ','Zhu ','Gui ','Yin ','Cai ','Lie ','Kamishimo ','Yuki ','Zhuang ','Dang ','[?] ','Kun ','Ken ','Niao ','Shu ','Jia ','Kun ','Cheng ','Li ','Juan ','Shen ','Pou ','Ge ','Yi ','Yu ','Zhen ','Liu ','Qiu ','Qun ','Ji ','Yi ','Bu ','Zhuang ','Shui ','Sha ','Qun ','Li ','Lian ','Lian ','Ku ','Jian ','Fou ','Chan ','Bi ','Gun ','Tao ','Yuan ','Ling ','Chi ','Chang ','Chou ','Duo ','Biao ','Liang ','Chang ','Pei ','Pei ','Fei ','Yuan ','Luo ','Guo ','Yan ','Du ','Xi ','Zhi ','Ju ','Qi ',
+'dae', 'daeg', 'daegg', 'daegs', 'daen', 'daenj', 'daenh', 'daed', 'dael', 'daelg', 'daelm', 'daelb', 'daels', 'daelt', 'daelp', 'daelh',
+'daem', 'daeb', 'daebs', 'daes', 'daess', 'daeng', 'daej', 'daec', 'daek', 'daet', 'daep', 'daeh', 'dya', 'dyag', 'dyagg', 'dyags',
+'dyan', 'dyanj', 'dyanh', 'dyad', 'dyal', 'dyalg', 'dyalm', 'dyalb', 'dyals', 'dyalt', 'dyalp', 'dyalh', 'dyam', 'dyab', 'dyabs', 'dyas',
+'dyass', 'dyang', 'dyaj', 'dyac', 'dyak', 'dyat', 'dyap', 'dyah', 'dyae', 'dyaeg', 'dyaegg', 'dyaegs', 'dyaen', 'dyaenj', 'dyaenh', 'dyaed',
+'dyael', 'dyaelg', 'dyaelm', 'dyaelb', 'dyaels', 'dyaelt', 'dyaelp', 'dyaelh', 'dyaem', 'dyaeb', 'dyaebs', 'dyaes', 'dyaess', 'dyaeng', 'dyaej', 'dyaec',
+'dyaek', 'dyaet', 'dyaep', 'dyaeh', 'deo', 'deog', 'deogg', 'deogs', 'deon', 'deonj', 'deonh', 'deod', 'deol', 'deolg', 'deolm', 'deolb',
+'deols', 'deolt', 'deolp', 'deolh', 'deom', 'deob', 'deobs', 'deos', 'deoss', 'deong', 'deoj', 'deoc', 'deok', 'deot', 'deop', 'deoh',
+'de', 'deg', 'degg', 'degs', 'den', 'denj', 'denh', 'ded', 'del', 'delg', 'delm', 'delb', 'dels', 'delt', 'delp', 'delh',
+'dem', 'deb', 'debs', 'des', 'dess', 'deng', 'dej', 'dec', 'dek', 'det', 'dep', 'deh', 'dyeo', 'dyeog', 'dyeogg', 'dyeogs',
+'dyeon', 'dyeonj', 'dyeonh', 'dyeod', 'dyeol', 'dyeolg', 'dyeolm', 'dyeolb', 'dyeols', 'dyeolt', 'dyeolp', 'dyeolh', 'dyeom', 'dyeob', 'dyeobs', 'dyeos',
+'dyeoss', 'dyeong', 'dyeoj', 'dyeoc', 'dyeok', 'dyeot', 'dyeop', 'dyeoh', 'dye', 'dyeg', 'dyegg', 'dyegs', 'dyen', 'dyenj', 'dyenh', 'dyed',
+'dyel', 'dyelg', 'dyelm', 'dyelb', 'dyels', 'dyelt', 'dyelp', 'dyelh', 'dyem', 'dyeb', 'dyebs', 'dyes', 'dyess', 'dyeng', 'dyej', 'dyec',
+'dyek', 'dyet', 'dyep', 'dyeh', 'do', 'dog', 'dogg', 'dogs', 'don', 'donj', 'donh', 'dod', 'dol', 'dolg', 'dolm', 'dolb',
+'dols', 'dolt', 'dolp', 'dolh', 'dom', 'dob', 'dobs', 'dos', 'doss', 'dong', 'doj', 'doc', 'dok', 'dot', 'dop', 'doh',
+'dwa', 'dwag', 'dwagg', 'dwags', 'dwan', 'dwanj', 'dwanh', 'dwad', 'dwal', 'dwalg', 'dwalm', 'dwalb', 'dwals', 'dwalt', 'dwalp', 'dwalh',
+'dwam', 'dwab', 'dwabs', 'dwas', 'dwass', 'dwang', 'dwaj', 'dwac', 'dwak', 'dwat', 'dwap', 'dwah', 'dwae', 'dwaeg', 'dwaegg', 'dwaegs',
 );

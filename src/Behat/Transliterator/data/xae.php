@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xae] = array(
-'Fu ','Zhuo ','Mao ','Fan ','Qie ','Mao ','Mao ','Ba ','Zi ','Mo ','Zi ','Di ','Chi ','Ji ','Jing ','Long ','[?] ','Niao ','[?] ','Xue ','Ying ','Qiong ','Ge ','Ming ','Li ','Rong ','Yin ','Gen ','Qian ','Chai ','Chen ','Yu ','Xiu ','Zi ','Lie ','Wu ','Ji ','Kui ','Ce ','Chong ','Ci ','Gou ','Guang ','Mang ','Chi ','Jiao ','Jiao ','Fu ','Yu ','Zhu ','Zi ','Jiang ','Hui ','Yin ','Cha ','Fa ','Rong ','Ru ','Chong ','Mang ','Tong ','Zhong ','[?] ','Zhu ','Xun ','Huan ','Kua ','Quan ','Gai ','Da ','Jing ','Xing ','Quan ','Cao ','Jing ','Er ','An ','Shou ','Chi ','Ren ','Jian ','Ti ','Huang ','Ping ','Li ','Jin ','Lao ','Shu ','Zhuang ','Da ','Jia ','Rao ','Bi ','Ze ','Qiao ','Hui ','Qi ','Dang ','[?] ','Rong ','Hun ','Ying ','Luo ','Ying ','Xun ','Jin ','Sun ','Yin ','Mai ','Hong ','Zhou ','Yao ','Du ','Wei ','Chu ','Dou ','Fu ','Ren ','Yin ','He ','Bi ','Bu ','Yun ','Di ','Tu ','Sui ','Sui ','Cheng ','Chen ','Wu ','Bie ','Xi ','Geng ','Li ','Fu ','Zhu ','Mo ','Li ','Zhuang ','Ji ','Duo ','Qiu ','Sha ','Suo ','Chen ','Feng ','Ju ','Mei ','Meng ','Xing ','Jing ','Che ','Xin ','Jun ','Yan ','Ting ','Diao ','Cuo ','Wan ','Han ','You ','Cuo ','Jia ','Wang ','You ','Niu ','Shao ','Xian ','Lang ','Fu ','E ','Mo ','Wen ','Jie ','Nan ','Mu ','Kan ','Lai ','Lian ','Shi ','Wo ','Usagi ','Lian ','Huo ','You ','Ying ','Ying ','Nuc ','Chun ','Mang ','Mang ','Ci ','Wan ','Jing ','Di ','Qu ','Dong ','Jian ','Zou ','Gu ','La ','Lu ','Ju ','Wei ','Jun ','Nie ','Kun ','He ','Pu ','Zi ','Gao ','Guo ','Fu ','Lun ','Chang ','Chou ','Song ','Chui ','Zhan ','Men ','Cai ','Ba ','Li ','Tu ','Bo ','Han ','Bao ','Qin ','Juan ','Xi ','Qin ','Di ','Jie ','Pu ','Dang ','Jin ','Zhao ','Tai ','Geng ','Hua ','Gu ','Ling ','Fei ','Jin ','An ','Wang ','Beng ','Zhou ','Yan ','Ju ','Jian ','Lin ','Tan ','Shu ','Tian ','Dao ',
+'geul', 'geulg', 'geulm', 'geulb', 'geuls', 'geult', 'geulp', 'geulh', 'geum', 'geub', 'geubs', 'geus', 'geuss', 'geung', 'geuj', 'geuc',
+'geuk', 'geut', 'geup', 'geuh', 'gyi', 'gyig', 'gyigg', 'gyigs', 'gyin', 'gyinj', 'gyinh', 'gyid', 'gyil', 'gyilg', 'gyilm', 'gyilb',
+'gyils', 'gyilt', 'gyilp', 'gyilh', 'gyim', 'gyib', 'gyibs', 'gyis', 'gyiss', 'gying', 'gyij', 'gyic', 'gyik', 'gyit', 'gyip', 'gyih',
+'gi', 'gig', 'gigg', 'gigs', 'gin', 'ginj', 'ginh', 'gid', 'gil', 'gilg', 'gilm', 'gilb', 'gils', 'gilt', 'gilp', 'gilh',
+'gim', 'gib', 'gibs', 'gis', 'giss', 'ging', 'gij', 'gic', 'gik', 'git', 'gip', 'gih', 'gga', 'ggag', 'ggagg', 'ggags',
+'ggan', 'gganj', 'gganh', 'ggad', 'ggal', 'ggalg', 'ggalm', 'ggalb', 'ggals', 'ggalt', 'ggalp', 'ggalh', 'ggam', 'ggab', 'ggabs', 'ggas',
+'ggass', 'ggang', 'ggaj', 'ggac', 'ggak', 'ggat', 'ggap', 'ggah', 'ggae', 'ggaeg', 'ggaegg', 'ggaegs', 'ggaen', 'ggaenj', 'ggaenh', 'ggaed',
+'ggael', 'ggaelg', 'ggaelm', 'ggaelb', 'ggaels', 'ggaelt', 'ggaelp', 'ggaelh', 'ggaem', 'ggaeb', 'ggaebs', 'ggaes', 'ggaess', 'ggaeng', 'ggaej', 'ggaec',
+'ggaek', 'ggaet', 'ggaep', 'ggaeh', 'ggya', 'ggyag', 'ggyagg', 'ggyags', 'ggyan', 'ggyanj', 'ggyanh', 'ggyad', 'ggyal', 'ggyalg', 'ggyalm', 'ggyalb',
+'ggyals', 'ggyalt', 'ggyalp', 'ggyalh', 'ggyam', 'ggyab', 'ggyabs', 'ggyas', 'ggyass', 'ggyang', 'ggyaj', 'ggyac', 'ggyak', 'ggyat', 'ggyap', 'ggyah',
+'ggyae', 'ggyaeg', 'ggyaegg', 'ggyaegs', 'ggyaen', 'ggyaenj', 'ggyaenh', 'ggyaed', 'ggyael', 'ggyaelg', 'ggyaelm', 'ggyaelb', 'ggyaels', 'ggyaelt', 'ggyaelp', 'ggyaelh',
+'ggyaem', 'ggyaeb', 'ggyaebs', 'ggyaes', 'ggyaess', 'ggyaeng', 'ggyaej', 'ggyaec', 'ggyaek', 'ggyaet', 'ggyaep', 'ggyaeh', 'ggeo', 'ggeog', 'ggeogg', 'ggeogs',
+'ggeon', 'ggeonj', 'ggeonh', 'ggeod', 'ggeol', 'ggeolg', 'ggeolm', 'ggeolb', 'ggeols', 'ggeolt', 'ggeolp', 'ggeolh', 'ggeom', 'ggeob', 'ggeobs', 'ggeos',
+'ggeoss', 'ggeong', 'ggeoj', 'ggeoc', 'ggeok', 'ggeot', 'ggeop', 'ggeoh', 'gge', 'ggeg', 'ggegg', 'ggegs', 'ggen', 'ggenj', 'ggenh', 'gged',
+'ggel', 'ggelg', 'ggelm', 'ggelb', 'ggels', 'ggelt', 'ggelp', 'ggelh', 'ggem', 'ggeb', 'ggebs', 'gges', 'ggess', 'ggeng', 'ggej', 'ggec',
+'ggek', 'gget', 'ggep', 'ggeh', 'ggyeo', 'ggyeog', 'ggyeogg', 'ggyeogs', 'ggyeon', 'ggyeonj', 'ggyeonh', 'ggyeod', 'ggyeol', 'ggyeolg', 'ggyeolm', 'ggyeolb',
 );

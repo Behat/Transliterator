@@ -1,4 +1,19 @@
 <?php
 $UTF8_TO_ASCII[0xbe] = array(
-'Lun ','Kua ','Ling ','Bei ','Lu ','Li ','Qiang ','Pou ','Juan ','Min ','Zui ','Peng ','An ','Pi ','Xian ','Ya ','Zhui ','Lei ','A ','Kong ','Ta ','Kun ','Du ','Wei ','Chui ','Zi ','Zheng ','Ben ','Nie ','Cong ','Qun ','Tan ','Ding ','Qi ','Qian ','Zhuo ','Qi ','Yu ','Jin ','Guan ','Mao ','Chang ','Tian ','Xi ','Lian ','Tao ','Gu ','Cuo ','Shu ','Zhen ','Lu ','Meng ','Lu ','Hua ','Biao ','Ga ','Lai ','Ken ','Kazari ','Bu ','Nai ','Wan ','Zan ','[?] ','De ','Xian ','[?] ','Huo ','Liang ','[?] ','Men ','Kai ','Ying ','Di ','Lian ','Guo ','Xian ','Du ','Tu ','Wei ','Cong ','Fu ','Rou ','Ji ','E ','Rou ','Chen ','Ti ','Zha ','Hong ','Yang ','Duan ','Xia ','Yu ','Keng ','Xing ','Huang ','Wei ','Fu ','Zhao ','Cha ','Qie ','She ','Hong ','Kui ','Tian ','Mou ','Qiao ','Qiao ','Hou ','Tou ','Cong ','Huan ','Ye ','Min ','Jian ','Duan ','Jian ','Song ','Kui ','Hu ','Xuan ','Duo ','Jie ','Zhen ','Bian ','Zhong ','Zi ','Xiu ','Ye ','Mei ','Pai ','Ai ','Jie ','[?] ','Mei ','Chuo ','Ta ','Bang ','Xia ','Lian ','Suo ','Xi ','Liu ','Zu ','Ye ','Nou ','Weng ','Rong ','Tang ','Suo ','Qiang ','Ge ','Shuo ','Chui ','Bo ','Pan ','Sa ','Bi ','Sang ','Gang ','Zi ','Wu ','Ying ','Huang ','Tiao ','Liu ','Kai ','Sun ','Sha ','Sou ','Wan ','Hao ','Zhen ','Zhen ','Luo ','Yi ','Yuan ','Tang ','Nie ','Xi ','Jia ','Ge ','Ma ','Juan ','Kasugai ','Habaki ','Suo ','[?] ','[?] ','[?] ','Na ','Lu ','Suo ','Ou ','Zu ','Tuan ','Xiu ','Guan ','Xuan ','Lian ','Shou ','Ao ','Man ','Mo ','Luo ','Bi ','Wei ','Liu ','Di ','Qiao ','Cong ','Yi ','Lu ','Ao ','Keng ','Qiang ','Cui ','Qi ','Chang ','Tang ','Man ','Yong ','Chan ','Feng ','Jing ','Biao ','Shu ','Lou ','Xiu ','Cong ','Long ','Zan ','Jian ','Cao ','Li ','Xia ','Xi ','Kang ','[?] ','Beng ','[?] ','[?] ','Zheng ','Lu ','Hua ','Ji ','Pu ','Hui ','Qiang ','Po ','Lin ','Suo ','Xiu ','San ','Cheng ',
+'byum', 'byub', 'byubs', 'byus', 'byuss', 'byung', 'byuj', 'byuc', 'byuk', 'byut', 'byup', 'byuh', 'beu', 'beug', 'beugg', 'beugs',
+'beun', 'beunj', 'beunh', 'beud', 'beul', 'beulg', 'beulm', 'beulb', 'beuls', 'beult', 'beulp', 'beulh', 'beum', 'beub', 'beubs', 'beus',
+'beuss', 'beung', 'beuj', 'beuc', 'beuk', 'beut', 'beup', 'beuh', 'byi', 'byig', 'byigg', 'byigs', 'byin', 'byinj', 'byinh', 'byid',
+'byil', 'byilg', 'byilm', 'byilb', 'byils', 'byilt', 'byilp', 'byilh', 'byim', 'byib', 'byibs', 'byis', 'byiss', 'bying', 'byij', 'byic',
+'byik', 'byit', 'byip', 'byih', 'bi', 'big', 'bigg', 'bigs', 'bin', 'binj', 'binh', 'bid', 'bil', 'bilg', 'bilm', 'bilb',
+'bils', 'bilt', 'bilp', 'bilh', 'bim', 'bib', 'bibs', 'bis', 'biss', 'bing', 'bij', 'bic', 'bik', 'bit', 'bip', 'bih',
+'bba', 'bbag', 'bbagg', 'bbags', 'bban', 'bbanj', 'bbanh', 'bbad', 'bbal', 'bbalg', 'bbalm', 'bbalb', 'bbals', 'bbalt', 'bbalp', 'bbalh',
+'bbam', 'bbab', 'bbabs', 'bbas', 'bbass', 'bbang', 'bbaj', 'bbac', 'bbak', 'bbat', 'bbap', 'bbah', 'bbae', 'bbaeg', 'bbaegg', 'bbaegs',
+'bbaen', 'bbaenj', 'bbaenh', 'bbaed', 'bbael', 'bbaelg', 'bbaelm', 'bbaelb', 'bbaels', 'bbaelt', 'bbaelp', 'bbaelh', 'bbaem', 'bbaeb', 'bbaebs', 'bbaes',
+'bbaess', 'bbaeng', 'bbaej', 'bbaec', 'bbaek', 'bbaet', 'bbaep', 'bbaeh', 'bbya', 'bbyag', 'bbyagg', 'bbyags', 'bbyan', 'bbyanj', 'bbyanh', 'bbyad',
+'bbyal', 'bbyalg', 'bbyalm', 'bbyalb', 'bbyals', 'bbyalt', 'bbyalp', 'bbyalh', 'bbyam', 'bbyab', 'bbyabs', 'bbyas', 'bbyass', 'bbyang', 'bbyaj', 'bbyac',
+'bbyak', 'bbyat', 'bbyap', 'bbyah', 'bbyae', 'bbyaeg', 'bbyaegg', 'bbyaegs', 'bbyaen', 'bbyaenj', 'bbyaenh', 'bbyaed', 'bbyael', 'bbyaelg', 'bbyaelm', 'bbyaelb',
+'bbyaels', 'bbyaelt', 'bbyaelp', 'bbyaelh', 'bbyaem', 'bbyaeb', 'bbyaebs', 'bbyaes', 'bbyaess', 'bbyaeng', 'bbyaej', 'bbyaec', 'bbyaek', 'bbyaet', 'bbyaep', 'bbyaeh',
+'bbeo', 'bbeog', 'bbeogg', 'bbeogs', 'bbeon', 'bbeonj', 'bbeonh', 'bbeod', 'bbeol', 'bbeolg', 'bbeolm', 'bbeolb', 'bbeols', 'bbeolt', 'bbeolp', 'bbeolh',
+'bbeom', 'bbeob', 'bbeobs', 'bbeos', 'bbeoss', 'bbeong', 'bbeoj', 'bbeoc', 'bbeok', 'bbeot', 'bbeop', 'bbeoh', 'bbe', 'bbeg', 'bbegg', 'bbegs',
+'bben', 'bbenj', 'bbenh', 'bbed', 'bbel', 'bbelg', 'bbelm', 'bbelb', 'bbels', 'bbelt', 'bbelp', 'bbelh', 'bbem', 'bbeb', 'bbebs', 'bbes',
 );
