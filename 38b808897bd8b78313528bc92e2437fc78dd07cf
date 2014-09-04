@@ -1,0 +1,59 @@
+---------------------------------------------------------------------------
+
+by stof at 2014-09-04T09:43:36Z
+
+hmm, so the Asian chars were totally wrong ?
+
+---------------------------------------------------------------------------
+
+by WouterSioen at 2014-09-04T09:51:29Z
+
+Since this is a port from the perl version, I assume the perl version is correct. I don't have any knowledge of Asian languages, so I can't check this.
+
+---------------------------------------------------------------------------
+
+by WouterSioen at 2014-09-04T09:57:42Z
+
+Maybe @l3pp4rd knows more about this, since he ported this implementation to PHP in his DoctrineExtensions.
+
+---------------------------------------------------------------------------
+
+by stof at 2014-09-04T10:22:27Z
+
+Can you fix the escaping issues ?
+
+---------------------------------------------------------------------------
+
+by WouterSioen at 2014-09-04T10:36:53Z
+
+I'll check it.
+
+---------------------------------------------------------------------------
+
+by WouterSioen at 2014-09-04T11:11:45Z
+
+I fixed some escaping issues, but I'll have to check some items with a lot of escaping characters and quotes (like in bankfile x1f.php).
+
+---------------------------------------------------------------------------
+
+by stof at 2014-09-04T11:33:51Z
+
+@WouterSioen I'm doing a review of all files currently, to see if I spot stuff you forgot. No need to fix immediately, you can wait until I'm done to do it in a single pass instead
+
+---------------------------------------------------------------------------
+
+by WouterSioen at 2014-09-04T11:34:42Z
+
+Ok, I'll wait for fixing your upcoming comments.
+
+---------------------------------------------------------------------------
+
+by stof at 2014-09-04T11:52:21Z
+
+OK, done
+
+---------------------------------------------------------------------------
+
+by WouterSioen at 2014-09-04T12:03:18Z
+
+Fixed
