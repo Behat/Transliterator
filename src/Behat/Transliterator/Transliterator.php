@@ -287,6 +287,7 @@ abstract class Transliterator
 
             $string = strtr($string, $chars);
         } else {
+            $chars = array();
             // Assume ISO-8859-1 if not UTF-8
             $chars['in'] = chr(128).chr(131).chr(138).chr(142).chr(154).chr(158)
                 .chr(159).chr(162).chr(165).chr(181).chr(192).chr(193).chr(194)
@@ -302,6 +303,8 @@ abstract class Transliterator
             $chars['out'] = 'EfSZszYcYuAAAAAACEEEEIIIINOOOOOOUUUUYaaaaaaceeeeiiiinoooooouuuuyy';
 
             $string = strtr($string, $chars['in'], $chars['out']);
+
+            $doubleChars = array();
             $doubleChars['in'] = array(
                 chr(140),
                 chr(156),
