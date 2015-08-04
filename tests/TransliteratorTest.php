@@ -41,7 +41,7 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
             array('', ''),
             array('BonJour', 'BonJour'),
             array('Déjà', 'Deja'),
-            array('това е тестово заглавие', 'това е тестово заглавие')
+            array('това е тестово заглавие', 'това е тестово заглавие'),
         );
     }
 
@@ -59,7 +59,7 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
             array('', ''),
             array('BonJour', 'bonjour'),
             array('Déjà', 'deja'),
-            array('това е тестово заглавие', '')
+            array('това е тестово заглавие', ''),
         );
     }
 }
