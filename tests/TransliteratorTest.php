@@ -7,6 +7,27 @@ use Behat\Transliterator\Transliterator;
 class TransliteratorTest extends \PHPUnit_Framework_TestCase
 {
     /**
+     * @dataProvider provideUtf8ConversionCases
+     */
+    public function testUtf8Conversion($input, $expected)
+    {
+        $this->assertSame($expected, Transliterator::utf8ToAscii($input));
+    }
+
+    public function provideUtf8ConversionCases()
+    {
+        return array(
+            array('', ''),
+            array('BonJour', 'BonJour'),
+            array('Déjà', 'Deja'),
+            array('trąnslįteration tėst ųsąge ūž', 'transliteration test usage uz'),
+            array('това е тестово заглавие', 'tova ie tiestovo zaghlaviie'),
+            array('это тестовый заголовок', 'eto tiestovyi zagholovok'),
+            array('führen Aktivitäten Haglöfs', 'fuhren Aktivitaten Haglofs'),
+        );
+    }
+
+    /**
      * @dataProvider provideTransliterationCases
      */
     public function testTransliteration($input, $expected)
@@ -19,6 +40,7 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
         return array(
             array('', ''),
             array('BonJour', 'bonjour'),
+            array('BonJour & au revoir', 'bonjour-au-revoir'),
             array('Déjà', 'deja'),
             array('trąnslįteration tėst ųsąge ūž', 'transliteration-test-usage-uz'),
             array('това е тестово заглавие', 'tova-ie-tiestovo-zaghlaviie'),
@@ -58,6 +80,7 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
         return array(
             array('', ''),
             array('BonJour', 'bonjour'),
+            array('BonJour & au revoir', 'bonjour-au-revoir'),
             array('Déjà', 'deja'),
             array('това е тестово заглавие', ''),
         );
