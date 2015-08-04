@@ -15,6 +15,12 @@
         }
     },
 
+    "autoload-dev": {
+        "psr-4": {
+            "Behat\\Tests\\Transliterator\\": "tests"
+        }
+    },
+
     "extra": {
         "branch-alias": {
             "dev-master": "1.1-dev"
