@@ -3,7 +3,7 @@ $UTF8_TO_ASCII[0x04] = array(
 'Ie', 'Io', 'Dj', 'Gj', 'Ie', 'Dz', 'I', 'Yi', 'J', 'Lj', 'Nj', 'Tsh', 'Kj', 'I', 'U', 'Dzh',
 'A', 'B', 'V', 'G', 'D', 'Ie', 'Zh', 'Z', 'I', 'I', 'K', 'L', 'M', 'N', 'O', 'P',
 'R', 'S', 'T', 'U', 'F', 'Kh', 'Ts', 'Ch', 'Sh', 'Shch', '', 'Y', '\'', 'E', 'Iu', 'Ia',
-'a', 'b', 'v', 'gh', 'd', 'ie', 'zh', 'z', 'i', 'i', 'k', 'l', 'm', 'n', 'o', 'p',
+'a', 'b', 'v', 'gh', 'd', 'e', 'zh', 'z', 'i', 'i', 'k', 'l', 'm', 'n', 'o', 'p',
 'r', 's', 't', 'u', 'f', 'kh', 'ts', 'ch', 'sh', 'shch', '', 'y', '\'', 'e', 'iu', 'ia',
 'ie', 'io', 'dj', 'gj', 'ie', 'dz', 'i', 'yi', 'j', 'lj', 'nj', 'tsh', 'kj', 'i', 'u', 'dzh',
 'O', 'o', 'E', 'e', 'Ie', 'ie', 'E', 'e', 'Ie', 'ie', 'O', 'o', 'Io', 'io', 'Ks', 'ks',
