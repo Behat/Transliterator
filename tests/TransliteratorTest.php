@@ -21,9 +21,16 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
             array('BonJour', 'BonJour'),
             array('Déjà', 'Deja'),
             array('trąnslįteration tėst ųsąge ūž', 'transliteration test usage uz'),
-            array('това е тестово заглавие', 'tova ie tiestovo zaghlaviie'),
-            array('это тестовый заголовок', 'eto tiestovyi zagholovok'),
+            array('това е тестово заглавие', 'tova e testovo zaglavie'),
+            array('это тестовый заголовок', 'eto testovyi zagolovok'),
             array('führen Aktivitäten Haglöfs', 'fuhren Aktivitaten Haglofs'),
+            array('тест', 'test'),
+            array('Розничная торговля', 'Roznichnaya torgovlya'),
+            array('Брест', 'Brest'),
+            array('резюме', 'rezyume'),
+            array('Промышленное производство', 'Promyshlennoe proizvodstvo'),
+            array('Оптовая торговля', 'Optovaya torgovlya'),
+            array('Я', 'Ya')
         );
     }
 
@@ -43,9 +50,15 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
             array('BonJour & au revoir', 'bonjour-au-revoir'),
             array('Déjà', 'deja'),
             array('trąnslįteration tėst ųsąge ūž', 'transliteration-test-usage-uz'),
-            array('това е тестово заглавие', 'tova-ie-tiestovo-zaghlaviie'),
-            array('это тестовый заголовок', 'eto-tiestovyi-zagholovok'),
+            array('това е тестово заглавие', 'tova-e-testovo-zaglavie'),
+            array('это тестовый заголовок', 'eto-testovyi-zagolovok'),
             array('führen Aktivitäten Haglöfs', 'fuhren-aktivitaten-haglofs'),
+            array('тест', 'test'),
+            array('Розничная торговля', 'roznichnaya-torgovlya'),
+            array('Брест', 'brest'),
+            array('резюме', 'rezyume'),
+            array('Промышленное производство', 'promyshlennoe-proizvodstvo'),
+            array('Оптовая торговля', 'optovaya-torgovlya')
         );
     }
 
@@ -64,6 +77,7 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
             array('BonJour', 'BonJour'),
             array('Déjà', 'Deja'),
             array('това е тестово заглавие', 'това е тестово заглавие'),
+            array('тест', 'тест')
         );
     }
 

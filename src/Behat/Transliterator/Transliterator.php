@@ -389,6 +389,7 @@ abstract class Transliterator
             }
 
             $newchar = $ord & 255;
+            // var_dump($c, $UTF8_TO_ASCII[$bank][$newchar], $newchar);
             if (array_key_exists($newchar, $UTF8_TO_ASCII[$bank])) {
                 $chars{$i} = $UTF8_TO_ASCII[$bank][$newchar];
             } else {
