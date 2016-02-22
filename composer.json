@@ -10,7 +10,7 @@
     },
 
     "require-dev": {
-        "php-yaoi/php-yaoi": "1.0.18",
+        "php-yaoi/php-yaoi": "^1.0",
         "chuyskywalker/rolling-curl": "^3.1"
     },
 

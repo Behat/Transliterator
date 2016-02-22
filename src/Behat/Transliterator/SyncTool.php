@@ -21,7 +21,7 @@ use Yaoi\String\Parser as StringParser;
  */
 class SyncTool extends Command
 {
-    public $libVer = '1.27';
+    const LIB_VERSION = '1.27';
 
     private $tokenizer;
     private $renderer;
@@ -56,11 +56,9 @@ class SyncTool extends Command
             ->keepBoundaries('[');
     }
 
-    static function setUpDefinition(\Yaoi\Command\Definition $definition, $options)
+    public static function setUpDefinition(\Yaoi\Command\Definition $definition, $options)
     {
-        $options->libVer = Option::create()->setIsUnnamed()
-            ->setDescription('Version of Perl library');
-        $definition->name = 'sync-tool';
+        $definition->name = 'update-data';
         $definition->description = 'Tool for converting char tables for Behat/Transliterator from Perl to PHP';
     }
 
@@ -98,7 +96,7 @@ class SyncTool extends Command
     {
         if ($this->itemIndex >= 16) {
             $this->phpTable = trim($this->phpTable);
-            $this->phpTable .= PHP_EOL;
+            $this->phpTable .= "\n";
             $this->itemIndex = 0;
         }
         ++$this->itemIndex;
@@ -189,7 +187,7 @@ PHP;
         }
 
         if ($this->nonQuestionBoxFound) {
-            $this->phpTable = trim($this->phpTable) . PHP_EOL . ');' . PHP_EOL;
+            $this->phpTable = trim($this->phpTable) . "\n" . ');' . "\n";
             if (file_put_contents($phpFilePath, $this->phpTable)) {
                 $this->response->success('Block ' . $this->block . ' converted to ' . $phpFilePath);
             } else {
@@ -205,9 +203,9 @@ PHP;
     {
         $client = new Client();
         $list = array();
-        $page = $client->fetch('http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-' . $this->libVer . '/lib/Text/Unidecode/');
-        foreach (\Yaoi\String\Parser::create($page)->innerAll('.pm">', '</a>') as $xXXpm) {
-            $list[] = 'http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-' . $this->libVer . '/lib/Text/Unidecode/'
+        $page = $client->fetch('http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-' . self::LIB_VERSION . '/lib/Text/Unidecode/');
+        foreach (StringParser::create($page)->innerAll('.pm">', '</a>') as $xXXpm) {
+            $list[] = 'http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-' . self::LIB_VERSION . '/lib/Text/Unidecode/'
                 . $xXXpm;
         }
         return $list;
