@@ -21,8 +21,8 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
             array('BonJour', 'BonJour'),
             array('Déjà', 'Deja'),
             array('trąnslįteration tėst ųsąge ūž', 'transliteration test usage uz'),
-            array('това е тестово заглавие', 'tova ie tiestovo zaghlaviie'),
-            array('это тестовый заголовок', 'eto tiestovyi zagholovok'),
+            array('това е тестово заглавие', 'tova e testovo zaglavie'),
+            array('это тестовый заголовок', 'eto testovyi zagolovok'),
             array('führen Aktivitäten Haglöfs', 'fuhren Aktivitaten Haglofs'),
         );
     }
@@ -43,8 +43,8 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
             array('BonJour & au revoir', 'bonjour-au-revoir'),
             array('Déjà', 'deja'),
             array('trąnslįteration tėst ųsąge ūž', 'transliteration-test-usage-uz'),
-            array('това е тестово заглавие', 'tova-ie-tiestovo-zaghlaviie'),
-            array('это тестовый заголовок', 'eto-tiestovyi-zagholovok'),
+            array('това е тестово заглавие', 'tova-e-testovo-zaglavie'),
+            array('это тестовый заголовок', 'eto-testovyi-zagolovok'),
             array('führen Aktivitäten Haglöfs', 'fuhren-aktivitaten-haglofs'),
         );
     }
