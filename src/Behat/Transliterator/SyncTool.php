@@ -16,8 +16,7 @@ use Yaoi\String\Parser as StringParser;
 
 /**
  * Tool for converting char tables for Behat/Transliterator from Perl to PHP
- *
- * @package Behat\Transliterator
+ * @internal
  */
 class SyncTool extends Command
 {
