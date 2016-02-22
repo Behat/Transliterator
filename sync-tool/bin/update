@@ -1,8 +1,0 @@
-#!/usr/bin/env php
-<?php
-
-require_once __DIR__ . '/../vendor/autoload.php';
-require_once __DIR__ . '/../UpdateFromPerlSrc.php';
-
-
-\Yaoi\Cli\Command\Runner::create(new UpdateFromPerlSrc)->run();

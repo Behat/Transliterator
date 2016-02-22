@@ -1,6 +1,0 @@
-{
-    "require": {
-        "php-yaoi/php-yaoi": "1.0.18",
-        "chuyskywalker/rolling-curl": "^3.1"
-    }
-}
