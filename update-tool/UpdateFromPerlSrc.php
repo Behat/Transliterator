@@ -82,7 +82,20 @@ class UpdateFromPerlSrc extends Yaoi\Command
 PHP;
 
         $itemsBind = (string)$parser->inner('[', ']');
+        $phpFilePath = __DIR__ . '/../src/Behat/Transliterator/data/' . substr($block, 1) . '.php';
+
         if (!$itemsBind) {
+            $this->response->addContent('Empty char table for block ' . $block);
+            if (file_exists($phpFilePath)) {
+                if (unlink($phpFilePath)) {
+                    $this->response->success('Deleted');
+                }
+                else {
+                    $this->response->error('Failed to delete');
+                }
+            } else {
+                $this->response->success('No PHP file, skipped');
+            }
             //echo $statement, PHP_EOL;
             return;
         }
@@ -93,6 +106,7 @@ PHP;
 
         $itemsStatement = explode(',', $itemsStatement);
         $index = 0;
+        $nonQuestionBoxFound = false;
         foreach ($itemsStatement as $item) {
             $item = trim($item);
             if (!$item) {
@@ -106,31 +120,58 @@ PHP;
             }
             ++$index;
 
+            $value = $item;
+
             if (isset($itemsBinds[$item])) {
                 /** @var \Yaoi\String\Lexer\Token $token */
                 $token = $itemsBinds[$item];
-                $value = new StringValue($token->unEscapedContent);
-                if ($value->starts('\x')) {
-                    $php .= '"' . $value . '", ';
-                }
-                else {
-                    // TODO check if this hack should be removed for chinese letters
-                    if ($value->value === '[?] ') {
-                        $value = '[?]';
-                    }
-                    //
+                $value = $token->unEscapedContent;
+            }
 
-                    $php .= "'" . str_replace(array('\\', '\''), array('\\\\', '\\\''), $value) . "', ";
+
+            $value = new StringValue($value);
+            if ($value->starts('\x')) {
+                $php .= '"' . $value . '", ';
+                $nonQuestionBoxFound = true;
+            } else {
+                // TODO check if this hack should be removed for chinese letters
+                if ($value->value === '[?] ') {
+                    $value->value = '[?]';
+                }
+                //
+
+                if ($value->value !== '[?]') {
+                    $nonQuestionBoxFound = true;
+                }
+
+                $php .= "'" . str_replace(array('\\', '\''), array('\\\\', '\\\''), $value) . "', ";
+            }
+
+        }
+
+        if ($nonQuestionBoxFound) {
+            $php = trim($php) . PHP_EOL . ');' . PHP_EOL;
+            if (file_put_contents($phpFilePath, $php)) {
+                $this->response->success('Converted');
+            }
+            else {
+                $this->response->error('Failed to save ' . $phpFilePath);
+            }
+        }
+        else {
+            $this->response->addContent('Block ' . $block . ' contains only [?]');
+            if (file_exists($phpFilePath)) {
+                if (unlink($phpFilePath)) {
+                    $this->response->success('Deleted');
+                } else {
+                    $this->response->error('Failed to delete');
                 }
             }
             else {
-                $php .= "'" . str_replace(array('\\', '\''), array('\\\\', '\\\''), $item) . "', ";
+                $this->response->success('No PHP file, skipped');
             }
         }
 
-        $php = trim($php) . PHP_EOL . ');' . PHP_EOL;
-
-        file_put_contents(__DIR__ . '/../src/Behat/Transliterator/data/' . substr($block, 1) . '.php', $php);
     }
 
 
