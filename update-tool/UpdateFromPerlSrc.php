@@ -114,6 +114,12 @@ PHP;
                     $php .= '"' . $value . '", ';
                 }
                 else {
+                    // TODO check if this hack should be removed for chinese letters
+                    if ($value->value === '[?] ') {
+                        $value = '[?]';
+                    }
+                    //
+
                     $php .= "'" . str_replace(array('\\', '\''), array('\\\\', '\\\''), $value) . "', ";
                 }
             }
