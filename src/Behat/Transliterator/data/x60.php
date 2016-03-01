@@ -16,5 +16,4 @@ $UTF8_TO_ASCII[0x60] = array(
 'Yu ', 'Huo ', 'He ', 'Quan ', 'Tan ', 'Ti ', 'Ti ', 'Nie ', 'Wang ', 'Chuo ', 'Bu ', 'Hun ', 'Xi ', 'Tang ', 'Xin ', 'Wei ',
 'Hui ', 'E ', 'Rui ', 'Zong ', 'Jian ', 'Yong ', 'Dian ', 'Ju ', 'Can ', 'Cheng ', 'De ', 'Bei ', 'Qie ', 'Can ', 'Dan ', 'Guan ',
 'Duo ', 'Nao ', 'Yun ', 'Xiang ', 'Zhui ', 'Die ', 'Huang ', 'Chun ', 'Qiong ', 'Re ', 'Xing ', 'Ce ', 'Bian ', 'Hun ', 'Zong ', 'Ti ',
-
 );

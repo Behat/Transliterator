@@ -9,6 +9,11 @@
         "php": ">=5.3.3"
     },
 
+    "require-dev": {
+        "php-yaoi/php-yaoi": "^1.0",
+        "chuyskywalker/rolling-curl": "^3.1"
+    },
+
     "autoload": {
         "psr-0": {
             "Behat\\Transliterator": "src/"
