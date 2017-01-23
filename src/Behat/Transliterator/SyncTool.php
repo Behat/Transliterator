@@ -5,7 +5,6 @@ namespace Behat\Transliterator;
 use RollingCurl\Request;
 use RollingCurl\RollingCurl;
 use Yaoi\Command;
-use Yaoi\Command\Option;
 use Yaoi\Http\Client;
 use Yaoi\String\Lexer\Parsed;
 use Yaoi\String\Lexer\Parser;
@@ -15,7 +14,8 @@ use Yaoi\String\StringValue;
 use Yaoi\String\Parser as StringParser;
 
 /**
- * Tool for converting char tables for Behat/Transliterator from Perl to PHP
+ * Tool for converting char tables for Behat/Transliterator from Perl to PHP.
+ *
  * @internal
  */
 class SyncTool extends Command
@@ -102,7 +102,7 @@ class SyncTool extends Command
 
         $item = new StringValue($item);
         if ($item->starts('\x') || $item->starts('\n')) {
-            $this->phpTable .= '"' . $item . '", ';
+            $this->phpTable .= '"'.$item.'", ';
             $this->nonQuestionBoxFound = true;
         } else {
             // TODO check if this hack should be removed for chinese letters
@@ -115,7 +115,7 @@ class SyncTool extends Command
                 $this->nonQuestionBoxFound = true;
             }
 
-            $this->phpTable .= "'" . str_replace(array('\\', '\''), array('\\\\', '\\\''), $item) . "', ";
+            $this->phpTable .= "'".str_replace(array('\\', '\''), array('\\\\', '\\\''), $item)."', ";
         }
     }
 
@@ -129,18 +129,17 @@ class SyncTool extends Command
         $binds = $expression->getBinds();
 
         $parser = new StringParser($statement);
-        $block = (string)$parser->inner('$Text::Unidecode::Char[', ']');
+        $block = (string) $parser->inner('$Text::Unidecode::Char[', ']');
         if (!$block) {
             throw new \Exception('Block not found');
         }
         $this->block = $this->renderer->getExpression($binds[$block])->getStatement();
 
-        $itemsBind = (string)$parser->inner('[', ']');
+        $itemsBind = (string) $parser->inner('[', ']');
 
         if (!$itemsBind) {
             $items = array();
-        }
-        else {
+        } else {
             $items = $binds[$itemsBind];
         }
 
@@ -151,9 +150,10 @@ class SyncTool extends Command
     {
         $items = $this->tokenizePerlTable($content);
 
-        $phpFilePath = __DIR__ . '/data/' . substr($this->block, 1) . '.php';
+        $phpFilePath = __DIR__.'/data/'.substr($this->block, 1).'.php';
         if (!$items) {
-            $this->removePhpCharTable($phpFilePath, 'Empty char table for block ' . $this->block);
+            $this->removePhpCharTable($phpFilePath, 'Empty char table for block '.$this->block);
+
             return;
         }
 
@@ -186,28 +186,27 @@ PHP;
         }
 
         if ($this->nonQuestionBoxFound) {
-            $this->phpTable = trim($this->phpTable) . "\n" . ');' . "\n";
+            $this->phpTable = trim($this->phpTable)."\n".');'."\n";
             if (file_put_contents($phpFilePath, $this->phpTable)) {
-                $this->response->success('Block ' . $this->block . ' converted to ' . $phpFilePath);
+                $this->response->success('Block '.$this->block.' converted to '.$phpFilePath);
             } else {
-                $this->response->error('Failed to save ' . $phpFilePath);
+                $this->response->error('Failed to save '.$phpFilePath);
             }
         } else {
-            $this->removePhpCharTable($phpFilePath, 'Block ' . $this->block . ' contains only [?]');
+            $this->removePhpCharTable($phpFilePath, 'Block '.$this->block.' contains only [?]');
         }
-
     }
 
     private function getPerlTablesUrlList()
     {
         $client = new Client();
         $list = array();
-        $page = $client->fetch('http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-' . self::LIB_VERSION . '/lib/Text/Unidecode/');
+        $page = $client->fetch('http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-'.self::LIB_VERSION.'/lib/Text/Unidecode/');
         foreach (StringParser::create($page)->innerAll('.pm">', '</a>') as $xXXpm) {
-            $list[] = 'http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-' . self::LIB_VERSION . '/lib/Text/Unidecode/'
-                . $xXXpm;
+            $list[] = 'http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-'.self::LIB_VERSION.'/lib/Text/Unidecode/'
+                .$xXXpm;
         }
+
         return $list;
     }
 }
-
