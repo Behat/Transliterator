@@ -1,1 +1,5 @@
 preset: symfony
+
+finder:
+  exclude:
+    - "src/Behat/Transliterator/data"
