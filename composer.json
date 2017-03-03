@@ -6,13 +6,13 @@
     "license":      "Artistic-1.0",
 
     "require": {
-        "php": ">=5.3.3",
-        "phpunit/phpunit": "~4.5"
+        "php": ">=5.3.3"
     },
 
     "require-dev": {
         "php-yaoi/php-yaoi": "^1.0",
-        "chuyskywalker/rolling-curl": "^3.1"
+        "chuyskywalker/rolling-curl": "^3.1",
+        "phpunit/phpunit": "~4.5"
     },
 
     "autoload": {
