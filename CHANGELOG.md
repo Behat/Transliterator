@@ -1,7 +1,9 @@
 
-## [Unreleased]
-### Added
-  * [Behat/Behat#976](https://github.com/Behat/Transliterator/pull/18): Stop \Behat\Transliterator\Transliterator::postProcessText() breaking words containing apostrophes
+
+1.2.0 / 2017-03-??
+==================
+
+  * Stop Transliterator::postProcessText() breaking words containing apostrophes
 
 1.1.0 / 2015-09-28
 ==================
