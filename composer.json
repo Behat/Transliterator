@@ -11,8 +11,7 @@
 
     "require-dev": {
         "php-yaoi/php-yaoi": "^1.0",
-        "chuyskywalker/rolling-curl": "^3.1",
-        "phpunit/phpunit": "~4.5"
+        "chuyskywalker/rolling-curl": "^3.1"
     },
 
     "autoload": {
