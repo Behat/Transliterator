@@ -574,7 +574,7 @@ abstract class Transliterator
         }
 
         // Remove apostrophes which are not used as quotes around a string
-        $text = preg_replace('|(\\w)\'(\\w)|', '${1}${2}', $text);
+        $text = preg_replace('/(\\w)\'(\\w)/', '${1}${2}', $text);
 
         // Replace all none word characters with a space
         $text = preg_replace('/\W/', ' ', $text);
