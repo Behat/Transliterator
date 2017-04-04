@@ -46,6 +46,7 @@ class TransliteratorTest extends \PHPUnit_Framework_TestCase
             array('това е тестово заглавие', 'tova-e-testovo-zaglavie'),
             array('это тестовый заголовок', 'eto-testovyi-zagolovok'),
             array('führen Aktivitäten Haglöfs', 'fuhren-aktivitaten-haglofs'),
+            array("that it's 'eleven' 'o'clock'", "that-its-eleven-oclock"),
         );
     }
 
