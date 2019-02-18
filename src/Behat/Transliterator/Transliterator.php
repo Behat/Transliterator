@@ -24,7 +24,7 @@ namespace Behat\Transliterator;
 abstract class Transliterator
 {
     /**
-     * Checks whether a string has utf7 characters in it.
+     * Checks whether a string has utf8 characters in it.
      *
      * By bmorel at ssi dot fr
      *
