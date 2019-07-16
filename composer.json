@@ -15,8 +15,8 @@
     },
 
     "autoload": {
-        "psr-0": {
-            "Behat\\Transliterator": "src/"
+        "psr-4": {
+            "Behat\\Transliterator\\": "src/Behat/Transliterator"
         }
     },
 
