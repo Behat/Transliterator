@@ -3,8 +3,9 @@
 namespace Behat\Tests\Transliterator;
 
 use Behat\Transliterator\Transliterator;
+use PHPUnit\Framework\TestCase;
 
-class TransliteratorTest extends \PHPUnit_Framework_TestCase
+class TransliteratorTest extends TestCase
 {
     /**
      * @dataProvider provideUtf8ConversionCases
