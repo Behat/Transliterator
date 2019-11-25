@@ -2,11 +2,19 @@ language: php
 
 sudo: false
 
-php: [5.3, 5.4, 5.5, 5.6, nightly, hhvm]
+jobs:
+  include:
+    - { php: 5.3, dist: precise }
+    - { php: 5.4, dist: precise }
+    - { php: 5.5, dist: precise }
+    - php: 5.6
+    - php: nightly
+    - php: hhvm
 
 matrix:
   fast_finish: true
   allow_failures:
+    - php: hhvm
     - php: nightly
 
 cache:
