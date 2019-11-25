@@ -1,3 +1,9 @@
+# 1.3.0 / 2019-XX-XX
+
+-   Fix existing Travis CI builds
+-   Add CI builds for all PHP versions between 5.3 and 7.4 snapshot
+-   Add preliminary support for PHP 7.4 snapshot
+
 # 1.2.0 / 2017-04-04
 
 -   Stop Transliterator::postProcessText() breaking words containing apostrophes
