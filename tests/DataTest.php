@@ -2,7 +2,9 @@
 
 namespace Behat\Tests\Transliterator;
 
-class DataTest extends \PHPUnit_Framework_TestCase
+use PHPUnit\Framework\TestCase;
+
+class DataTest extends TestCase
 {
     /**
      * @dataProvider provideDataFiles
