@@ -1,8 +1,8 @@
-# 1.3.0 / 2019-XX-XX
+# 1.3.0 / 2020-01-14
 
 -   Fix existing Travis CI builds
--   Add CI builds for all PHP versions between 5.3 and 7.4 snapshot
--   Add preliminary support for PHP 7.4 snapshot
+-   Add CI builds for all PHP versions between 5.3 and 7.4 
+-   Add preliminary support for PHP 7.4 
 
 # 1.2.0 / 2017-04-04
 
