@@ -23,6 +23,7 @@ class TransliteratorTest extends TestCase
             array('Déjà', 'Deja'),
             array('trąnslįteration tėst ųsąge ūž', 'transliteration test usage uz'),
             array('това е тестово заглавие', 'tova e testovo zaglavie'),
+            array('це є тестовий заголовок з ґ, є, ї, і', 'tse ie testovii zagolovok z g\', ie, yi, i'),
             array('это тестовый заголовок', 'eto testovyi zagolovok'),
             array('führen Aktivitäten Haglöfs', 'fuhren Aktivitaten Haglofs'),
         );
@@ -45,6 +46,7 @@ class TransliteratorTest extends TestCase
             array('Déjà', 'deja'),
             array('trąnslįteration tėst ųsąge ūž', 'transliteration-test-usage-uz'),
             array('това е тестово заглавие', 'tova-e-testovo-zaglavie'),
+            array('це є тестовий заголовок з ґ, є, ї, і', 'tse-ie-testovii-zagolovok-z-g-ie-yi-i'),
             array('это тестовый заголовок', 'eto-testovyi-zagolovok'),
             array('führen Aktivitäten Haglöfs', 'fuhren-aktivitaten-haglofs'),
             array("that it's 'eleven' 'o'clock'", "that-its-eleven-oclock"),
@@ -66,6 +68,7 @@ class TransliteratorTest extends TestCase
             array('BonJour', 'BonJour'),
             array('Déjà', 'Deja'),
             array('това е тестово заглавие', 'това е тестово заглавие'),
+            array('це є тестовий заголовок з ґ, є, ї, і', 'це є тестовий заголовок з ґ, є, ї, і'),
         );
     }
 
@@ -85,6 +88,7 @@ class TransliteratorTest extends TestCase
             array('BonJour & au revoir', 'bonjour-au-revoir'),
             array('Déjà', 'deja'),
             array('това е тестово заглавие', ''),
+            array('це є тестовий заголовок з ґ, є, ї, і', ''),
         );
     }
 }

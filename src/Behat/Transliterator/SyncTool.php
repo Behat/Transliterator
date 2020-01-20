@@ -20,7 +20,7 @@ use Yaoi\String\Parser as StringParser;
  */
 class SyncTool extends Command
 {
-    const LIB_VERSION = '1.27';
+    const LIB_VERSION = '1.30';
 
     private $tokenizer;
     private $renderer;
