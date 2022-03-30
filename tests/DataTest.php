@@ -25,13 +25,8 @@ class DataTest extends TestCase
             // PHPUnit <7.5
             $this->assertInternalType('array', $data, 'The value in $UTF8_TO_ASCII should be an array.');
         }
-        // Accept 255 elements because of inconsistencies in the data of the original Perl library
-        if (method_exists($this, 'assertEqualsWithDelta')) {
-            $this->assertEqualsWithDelta(256, count($data), 1, 'The value in $UTF8_TO_ASCII should have 255 or 256 elements.');
-        } else {
-            // PHPUnit <7.5
-            $this->assertEquals(256, count($data), 'The value in $UTF8_TO_ASCII should have 255 or 256 elements.', 1);
-        }
+
+        $this->assertEquals(256, count($data), 'The value in $UTF8_TO_ASCII should have 256 elements.');
     }
 
     public function provideDataFiles()
