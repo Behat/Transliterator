@@ -1,0 +1,54 @@
+name: CI
+
+on:
+    push:
+    pull_request:
+
+jobs:
+    check_composer:
+        name: Check composer.json
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: shivammathur/setup-php@v2
+              with:
+                  coverage: none
+                  php-version: '8.0'
+            - run: composer validate --strict --no-check-lock
+
+    tests:
+        name: "Tests on PHP ${{ matrix.php }}${{ matrix.name_suffix }}"
+        runs-on: ubuntu-latest
+
+        strategy:
+            fail-fast: false
+            matrix:
+                php: [ '5.3', '5.4', '5.5', '5.6', '7.0', '7.1', '7.2', '7.3', '7.4', '8.0', '8.1' ]
+                min_stability: [ '' ]
+                name_suffix: [ '' ]
+                composer_flags: [ '' ]
+                include:
+                    - php: '8.0'
+                      min_stability: 'dev'
+                      name_suffix: ' (dev deps)'
+                    - php: '5.3'
+                      min_stability: ''
+                      name_suffix: ' (lowest deps)'
+                      composer_flags: '--prefer-lowest'
+
+        steps:
+            -   uses: actions/checkout@v2
+            -   uses: shivammathur/setup-php@v2
+                with:
+                    coverage: "none"
+                    php-version: "${{ matrix.php }}"
+
+            -   name: Configure stability
+                if: "matrix.min_stability != ''"
+                run: composer config minimum-stability "${{ matrix.min_stability }}"
+
+            -   name: Install dependencies
+                run: composer update --ansi --no-progress --prefer-dist --no-interaction ${{ matrix.composer_flags }}
+
+            -   name: Run tests
+                run: vendor/bin/phpunit -v --colors=always
