@@ -5,7 +5,7 @@ namespace Behat\Transliterator;
 use RollingCurl\Request;
 use RollingCurl\RollingCurl;
 use Yaoi\Command;
-use Yaoi\Command\Option;
+use Yaoi\Command\Definition;
 use Yaoi\Http\Client;
 use Yaoi\String\Lexer\Parsed;
 use Yaoi\String\Lexer\Parser;
@@ -55,7 +55,7 @@ class SyncTool extends Command
             ->keepBoundaries('[');
     }
 
-    public static function setUpDefinition(\Yaoi\Command\Definition $definition, $options)
+    public static function setUpDefinition(Definition $definition, $options)
     {
         $definition->name = 'update-data';
         $definition->description = 'Tool for converting char tables for Behat/Transliterator from Perl to PHP';
@@ -202,9 +202,9 @@ PHP;
     {
         $client = new Client();
         $list = array();
-        $page = $client->fetch('http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-' . self::LIB_VERSION . '/lib/Text/Unidecode/');
-        foreach (StringParser::create($page)->innerAll('.pm">', '</a>') as $xXXpm) {
-            $list[] = 'http://cpansearch.perl.org/src/SBURKE/Text-Unidecode-' . self::LIB_VERSION . '/lib/Text/Unidecode/'
+        $page = $client->fetch('https://st.aticpan.org/source/SBURKE/Text-Unidecode-' . self::LIB_VERSION . '/lib/Text/Unidecode/');
+        foreach (StringParser::create($page)->innerAll('.pm\'>', '</a>') as $xXXpm) {
+            $list[] = 'https://st.aticpan.org/source/SBURKE/Text-Unidecode-' . self::LIB_VERSION . '/lib/Text/Unidecode/'
                 . $xXXpm;
         }
         return $list;
