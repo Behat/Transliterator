@@ -1,3 +1,7 @@
+# 1.5.0 / 2022-03-30
+
+- Bump the min PHP version to 7.2 
+
 # 1.4.0 / 2022-03-30
 
 - Updated Unicode bank files
