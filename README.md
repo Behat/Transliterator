@@ -18,7 +18,7 @@ Installation
 The easiest way to install Behat is by using [Composer](https://getcomposer.org):
 
 ```bash
-$ composer require behat/transliterator
+composer require behat/transliterator
 ```
 
 Usage
