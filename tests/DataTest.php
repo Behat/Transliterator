@@ -19,12 +19,7 @@ class DataTest extends TestCase
 
         $data = current($UTF8_TO_ASCII);
 
-        if (method_exists($this, 'assertIsArray')) {
-            $this->assertIsArray($data, 'The value in $UTF8_TO_ASCII should be an array.');
-        } else {
-            // PHPUnit <7.5
-            $this->assertInternalType('array', $data, 'The value in $UTF8_TO_ASCII should be an array.');
-        }
+        $this->assertIsArray($data, 'The value in $UTF8_TO_ASCII should be an array.');
 
         $this->assertEquals(256, count($data), 'The value in $UTF8_TO_ASCII should have 256 elements.');
     }
