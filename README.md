@@ -3,7 +3,7 @@ Behat Transliterator
 
 Behat Transliterator provides transliteration utilities for PHP.
 
-Transliteration data are ported from the [Perl Text-Unidecode module](http://search.cpan.org/~sburke/Text-Unidecode-0.04/lib/Text/Unidecode.pm).
+Transliteration data are ported from the [Perl Text-Unidecode module](https://metacpan.org/pod/Text::Unidecode).
 
 [![License](https://poser.pugx.org/behat/transliterator/license.svg)](https://packagist.org/packages/behat/transliterator)
 [![CI](https://github.com/Behat/Transliterator/actions/workflows/ci.yml/badge.svg)](https://github.com/Behat/Transliterator/actions/workflows/ci.yml)
