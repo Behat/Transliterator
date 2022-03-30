@@ -7,7 +7,6 @@ Transliteration data are ported from the [Perl Text-Unidecode module](https://me
 
 [![License](https://poser.pugx.org/behat/transliterator/license.svg)](https://packagist.org/packages/behat/transliterator)
 [![CI](https://github.com/Behat/Transliterator/actions/workflows/ci.yml/badge.svg)](https://github.com/Behat/Transliterator/actions/workflows/ci.yml)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Behat/Transliterator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Behat/Transliterator/?branch=master)
 [![Total Downloads](https://poser.pugx.org/behat/transliterator/downloads.svg)](https://packagist.org/packages/behat/transliterator)
 
 Installation
