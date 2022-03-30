@@ -1,3 +1,8 @@
+# 1.4.0 / 2022-03-30
+
+- Updated Unicode bank files
+- Add CI builds on PHP 8 and 8.1
+
 # 1.3.0 / 2020-01-14
 
 -   Fix existing Travis CI builds
