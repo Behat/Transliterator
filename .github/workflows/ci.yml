@@ -9,7 +9,7 @@ jobs:
         name: Check composer.json
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v3
             - uses: shivammathur/setup-php@v2
               with:
                   coverage: none
@@ -23,7 +23,7 @@ jobs:
         strategy:
             fail-fast: false
             matrix:
-                php: [ '7.2', '7.3', '7.4', '8.0', '8.1' ]
+                php: [ '7.2', '7.3', '7.4', '8.0', '8.1', '8.2' ]
                 min_stability: [ '' ]
                 name_suffix: [ '' ]
                 composer_flags: [ '' ]
@@ -37,7 +37,7 @@ jobs:
                       composer_flags: '--prefer-lowest'
 
         steps:
-            -   uses: actions/checkout@v2
+            -   uses: actions/checkout@v3
             -   uses: shivammathur/setup-php@v2
                 with:
                     coverage: "none"
