@@ -15,7 +15,7 @@ class TransliteratorTest extends TestCase
         $this->assertSame($expected, Transliterator::utf8ToAscii($input));
     }
 
-    public function provideUtf8ConversionCases()
+    public static function provideUtf8ConversionCases()
     {
         return array(
             array('', ''),
@@ -37,7 +37,7 @@ class TransliteratorTest extends TestCase
         $this->assertSame($expected, Transliterator::transliterate($input));
     }
 
-    public function provideTransliterationCases()
+    public static function provideTransliterationCases()
     {
         return array(
             array('', ''),
@@ -61,7 +61,7 @@ class TransliteratorTest extends TestCase
         $this->assertSame($expected, Transliterator::unaccent($input));
     }
 
-    public function provideUnaccentCases()
+    public static function provideUnaccentCases()
     {
         return array(
             array('', ''),
@@ -80,7 +80,7 @@ class TransliteratorTest extends TestCase
         $this->assertSame($expected, Transliterator::urlize($input));
     }
 
-    public function provideUrlizationCases()
+    public static function provideUrlizationCases()
     {
         return array(
             array('', ''),
