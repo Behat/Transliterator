@@ -24,7 +24,7 @@ class DataTest extends TestCase
         $this->assertEquals(256, count($data), 'The value in $UTF8_TO_ASCII should have 256 elements.');
     }
 
-    public function provideDataFiles()
+    public static function provideDataFiles()
     {
         $files = array();
 
