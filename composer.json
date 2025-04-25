@@ -1,5 +1,6 @@
 {
   "name": "behat/transliterator",
+  "abandoned": true,
   "description": "String transliterator",
   "keywords": [
     "transliterator",
